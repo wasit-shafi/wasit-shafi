@@ -54,7 +54,7 @@
 ### 🧰 Languages & Tools:
 
 <!-- https://icons8.com/icons -->
-<p style="pointer-events:none">
+<a href="#">
 <img src="https://img.icons8.com/color/50/000000/javascript.png" alt="javascript"/>
 <img src="https://img.icons8.com/color/50/000000/typescript.png" alt="typescript"/>
 <img src="https://img.icons8.com/color/50/000000/html-5.png"alt="html" />
@@ -79,7 +79,7 @@
 <img src="https://img.icons8.com/color/50/000000/npm.png" alt="npm" />
 <img src="https://img.icons8.com/color/50/000000/webpack.png"  alt="webpack" />
 <img src="https://img.icons8.com/color/50/000000/latex.png" alt="latex" />
-</p>
+</a>
 <br />
 
 ### 🔗 Connect with me:
