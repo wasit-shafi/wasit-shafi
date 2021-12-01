@@ -1,7 +1,7 @@
-<h1 align="left" >:wave: Hello there! I'm Wasit Shafi</h1>
-<h3 align="left">🔭 I’m currently working as a Software Engineer in Noida, India<h3>
+<h1>:wave: Hello there! I'm Wasit Shafi</h1>
+<h3>🔭 I’m currently working as a Software Engineer in Noida, IN<h3>
 
-<p align="left">
+<p>
   <!-- Profile Views -->
   <a href="https://github.com/wasitshafi/wasitshafi">
     <img src="https://komarev.com/ghpvc/?username=wasitshafi&label=ProfileViews" alt="profile views" />
@@ -38,7 +38,7 @@
 - 👨‍💻 &nbsp; I’m working on **Front End Technologies**
 - 🧐 &nbsp; More interested in **Back End Technologies!**
 - 🎓 Master of Computer Applications
-- 🌐 &nbsp; Checkout my [Portfolio](https://wasitshafi.github.io/) or [Resume](https://drive.google.com/file/d/1pbk9lpAsXecNQfnN2LZpDDFkpn9cKC0-/view)
+- 🌐 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1pbk9lpAsXecNQfnN2LZpDDFkpn9cKC0-/view) or [Portfolio](https://wasitshafi.github.io/)
   <br>
 
 ### <img src="https://img.icons8.com/office/20/000000/bar-chart.png"/> Github Stats
