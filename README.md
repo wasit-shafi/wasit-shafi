@@ -39,6 +39,7 @@
 - 🧐 &nbsp; More interested in **Back End Technologies!**
 - 🎓 &nbsp; Master of Computer Applications
 - 🌐 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1pbk9lpAsXecNQfnN2LZpDDFkpn9cKC0-/view) or [Portfolio](https://wasitshafi.github.io/)
+- 💯 &nbsp; **Free DevTip:** First solve the MELBORP then CODE!
   <br>
 
 ### <img src="https://img.icons8.com/office/20/000000/bar-chart.png"/> Github Stats
@@ -61,5 +62,8 @@
 
 ### 🔗 Connect with me:
 
-<a href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="email-id-wasitshafi"/></a><a href="https://twitter.com/wasitshafi"><img src="https://img.icons8.com/color/50/000000/twitter.png" alt="twitter-wasitshafi"/></a><a href="https://www.linkedin.com/in/wasitshafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasitshafi"/></a><a href="https://discordapp.com/users/WasitShaf/"><img src="https://img.icons8.com/color/48/000000/discord--v2.png" alt="discord-wasitshafi"/></a><a href="https://join.skype.com/invite/VhQza341zfg7"><img src="https://img.icons8.com/color/48/000000/skype.png" alt="skype-wasitshafi"/></a><!--<a href="https://www.instagram.com/wasitshafi/"><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" alt="instagram-wasitshafi"/></a><a href="https://github.com/wasitshafi"><img src="https://img.icons8.com/color/50/000000/facebook-new.png" alt="wasitshafi-facebook"/></a>-->
+<a href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="email-id-wasitshafi"/></a><a href="https://twitter.com/wasitshafi"><img src="https://img.icons8.com/color/50/000000/twitter.png" alt="twitter-wasitshafi"/></a><a href="https://www.linkedin.com/in/wasitshafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasitshafi"/></a><a href="https://join.skype.com/invite/VhQza341zfg7"><img src="https://img.icons8.com/color/48/000000/skype.png" alt="skype-wasitshafi"/></a><a href="https://discordapp.com/users/WasitShaf/"><img src="https://img.icons8.com/color/48/000000/discord--v2.png" alt="discord-wasitshafi"/></a><!--<a href="https://www.instagram.com/wasitshafi/"><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" alt="instagram-wasitshafi"/></a><a href="https://github.com/wasitshafi"><img src="https://img.icons8.com/color/50/000000/facebook-new.png" alt="wasitshafi-facebook"/></a>-->
 <br />
+
+  
+<p align="center"><b>Thanks for your time</b></p>
