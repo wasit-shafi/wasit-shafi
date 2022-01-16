@@ -38,7 +38,7 @@
 - 👨‍💻 &nbsp; I’m working on **Front End Technologies**
 - 🧐 &nbsp; More interested in **Back End Technologies!**
 - 🎓 &nbsp; Master of Computer Applications
-- 🌐 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1pbk9lpAsXecNQfnN2LZpDDFkpn9cKC0-/view) or [Portfolio](https://wasitshafi.github.io/)
+- 🌐 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1pbk9lpAsXecNQfnN2LZpDDFkpn9cKC0-/view) || [Portfolio](https://wasitshafi.github.io/)
 - 💯 &nbsp; **Free DevTip:** First solve the MELBORP then CODE!
   <br>
 
