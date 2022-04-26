@@ -1,5 +1,5 @@
 <h1>:wave: Hello there! I'm Wasit Shafi</h1>
-<h3>🔭 I’m currently working as a Software Engineer in Noida, IN<h3>
+<h3>🔭 I’m currently working as a Software Engineer<!-- in Noida, IN--><h3>
 
 <p>
   <!-- Profile Views -->
@@ -62,8 +62,15 @@
 
 ### 🔗 Connect with me:
 
-<a href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="email-id-wasitshafi"/></a><a href="https://twitter.com/wasitshafi"><img src="https://img.icons8.com/color/50/000000/twitter.png" alt="twitter-wasitshafi"/></a><a href="https://www.linkedin.com/in/wasitshafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasitshafi"/></a><a href="https://join.skype.com/invite/VhQza341zfg7"><img src="https://img.icons8.com/color/48/000000/skype.png" alt="skype-wasitshafi"/></a>
-<!-- <a href="https://discordapp.com/users/WasitShaf/"><img src="https://img.icons8.com/color/48/000000/discord--v2.png" alt="discord-wasitshafi"/></a><a href="https://www.instagram.com/wasitshafi/"><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" alt="instagram-wasitshafi"/></a><a href="https://github.com/wasitshafi"><img src="https://img.icons8.com/color/50/000000/facebook-new.png" alt="wasitshafi-facebook"/></a> -->
+<a href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="email-id-wasitshafi"/></a>
+<a href="https://join.skype.com/invite/VhQza341zfg7"><img src="https://img.icons8.com/color/48/000000/skype.png" alt="skype-wasitshafi"/></a>
+<a href="https://www.linkedin.com/in/wasitshafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasitshafi"/></a>
+<!--
+<a href="https://twitter.com/wasitshafi"><img src="https://img.icons8.com/color/50/000000/twitter.png" alt="twitter-wasitshafi"/></a>
+<a href="https://discordapp.com/users/WasitShaf/"><img src="https://img.icons8.com/color/48/000000/discord--v2.png" alt="discord-wasitshafi"/></a>
+<a href="https://www.instagram.com/wasitshafi/"><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" alt="instagram-wasitshafi"/></a>
+<a href="https://github.com/wasitshafi"><img src="https://img.icons8.com/color/50/000000/facebook-new.png" alt="wasitshafi-facebook"/></a>
+ -->
 <br />
 
 
