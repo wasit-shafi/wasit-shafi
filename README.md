@@ -1,6 +1,7 @@
 <h1>:wave: Hello there! I'm Wasit Shafi</h1>
-<h3>🔭 I’m currently working as a Software Engineer<!-- in Noida, IN--><h3>
 
+<!-- <h3>🔭 I’m currently working as a Software Engineer<h3> -->
+  
 <p>
   <!-- Profile Views -->
   <a href="https://github.com/wasitshafi/wasitshafi">
@@ -35,8 +36,9 @@
 
 ### 📖 More About Me:
 
-- 👨‍💻 &nbsp; I’m working on **Front End Technologies**
-- 🧐 &nbsp; More interested in **Back End Technologies!**
+<!-- - 👨‍💻 &nbsp; I’m working on **Front End Technologies** -->
+<!-- - 🧐 &nbsp; More interested in **Back End Technologies!** -->
+- 👨‍💻 &nbsp; Interested in **Back End Technologies**, professional work experience with **Front End Technologies**
 - 🎓 &nbsp; Master of Computer Applications
 - 🌐 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1pbk9lpAsXecNQfnN2LZpDDFkpn9cKC0-/view) || [Portfolio](https://wasitshafi.github.io/)
 - 💯 &nbsp; **Free DevTip:** First solve the MELBORP then CODE!
