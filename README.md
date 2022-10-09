@@ -3,35 +3,39 @@
 <!-- <h3>🔭 I’m currently working as a Software Engineer<h3> -->
   
 <p>
-  <!-- Profile Views -->
+<!-- Profile Views -->
   <a href="https://github.com/wasitshafi/wasitshafi">
-    <img src="https://komarev.com/ghpvc/?username=wasitshafi&label=ProfileViews" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=wasitshafi&label=ProfileViews"/>
   </a>
-  <!-- Total Commits -->
-  <a href="https://github.com/wasitshafi?tab=repositories">
-    <img src="https://badges.pufler.dev/commits/all/wasitshafi?label=AllCommits">
+<!-- GitHub Public Repositories Badge -->
+  <a href="">
+    <img src="https://badges.strrl.dev/repos/wasitshafi"/>
   </a>
-  <!-- Public Repos -->
-   <a href="https://github.com/wasitshafi?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/wasitshafi?color=red&logo=github&label=PublicRepos">
+<!-- GitHub Public Gists Badge -->
+  <a href="">
+    <img src="https://badges.strrl.dev/gists/wasitshafi"/>
   </a>
-  <!--  Public Gist -->
-  <a href="https://gist.github.com/wasitshafi">
-    <img src="https://badges.pufler.dev/gists/wasitshafi?color=blueviolet&label=PublicGists">
+<!-- GitHub Contributions Badge -->
+  <a href="">
+    <img src="https://badges.strrl.dev/contributions/all/wasitshafi"/>
   </a>
-  <!-- Member on github in years -->
-  <a href="https://github.com/wasitshafi?tab=repositories">
-    <img src="https://badges.pufler.dev/years/wasitshafi?color=yellow">
+<!-- GitHub Commits Badge -->
+  <a href="">
+    <img src="https://badges.strrl.dev/commits/all/wasitshafi"/>
   </a>
-  <!-- Stackoverflow badge -->
-  <!-- Shows sometimes: Invalid Parameters -->
-  <!-- <a href="https://stackoverflow.com/users/10249156">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/10249156?color=orange&label=Reputation&logo=stackoverflow">
-  </a> -->
+<!-- GitHub Issues and PRs Badge -->
+  <a href="">
+    <img src="https://badges.strrl.dev/issues-and-prs/all/wasitshafi"/>
+  </a>
+<!-- GitHub Membership Years Badge -->
+  <a href="https://github.com/wasitshafi/wasitshafi">
+    <img src="https://badges.strrl.dev/years/wasitshafi" alt="profile views" />
+  </a>
+<!-- Stackoverflow badge -->
   <a href="https://stackoverflow.com/users/10249156/wasitshafi">
     <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray"/>
-    </a>
-  </p>
+  </a>
+</p>
 <br>
 
 ### 📖 More About Me:
