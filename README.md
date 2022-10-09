@@ -8,23 +8,23 @@
     <img src="https://komarev.com/ghpvc/?username=wasitshafi&label=ProfileViews"/>
   </a>
 <!-- GitHub Public Repositories Badge -->
-  <a href="">
-    <img src="https://badges.strrl.dev/repos/wasitshafi"/>
+  <a href="https://github.com/wasitshafi?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/wasitshafi?label=PublicRepos"/>
   </a>
 <!-- GitHub Public Gists Badge -->
-  <a href="">
-    <img src="https://badges.strrl.dev/gists/wasitshafi"/>
+  <a href="https://gist.github.com/wasitshafi">
+    <img src="https://badges.strrl.dev/gists/wasitshafi?label=PublicGists"/>
   </a>
 <!-- GitHub Contributions Badge -->
-  <a href="">
+  <a href="https://github.com/wasitshafi?tab=repositories">
     <img src="https://badges.strrl.dev/contributions/all/wasitshafi"/>
   </a>
 <!-- GitHub Commits Badge -->
-  <a href="">
+  <a href="https://github.com/wasitshafi?tab=repositories">
     <img src="https://badges.strrl.dev/commits/all/wasitshafi"/>
   </a>
 <!-- GitHub Issues and PRs Badge -->
-  <a href="">
+  <a href="https://github.com/wasitshafi?tab=repositories">
     <img src="https://badges.strrl.dev/issues-and-prs/all/wasitshafi"/>
   </a>
 <!-- GitHub Membership Years Badge -->
