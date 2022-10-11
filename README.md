@@ -5,39 +5,27 @@
 <p>
 <!-- Profile Views -->
   <a href="https://github.com/wasitshafi/wasitshafi">
-    <img src="https://komarev.com/ghpvc/?username=wasitshafi&label=ProfileViews"/>
+    <img src="https://komarev.com/ghpvc/?username=wasitshafi&label=ProfileViews" alt="Profile_Views"/>
   </a>
-<!-- GitHub Public Repositories Badge -->
-<!--
-  <a href="https://github.com/wasitshafi?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/wasitshafi?label=PublicRepos"/>
-  </a>
--->
-<!-- GitHub Public Gists Badge -->
-<!--
-  <a href="https://gist.github.com/wasitshafi">
-    <img src="https://badges.strrl.dev/gists/wasitshafi?label=PublicGists"/>
-  </a>
--->
 <!-- GitHub Contributions Badge -->
   <a href="https://github.com/wasitshafi?tab=repositories">
-    <img src="https://badges.strrl.dev/contributions/all/wasitshafi"/>
+    <img src="https://badges.strrl.dev/contributions/all/wasitshafi" alt="All_Contributions"/>
   </a>
 <!-- GitHub Commits Badge -->
   <a href="https://github.com/wasitshafi?tab=repositories">
-    <img src="https://badges.strrl.dev/commits/all/wasitshafi"/>
+    <img src="https://badges.strrl.dev/commits/all/wasitshafi" alt="All_Commits"/>
   </a>
 <!-- GitHub Issues and PRs Badge -->
   <a href="https://github.com/wasitshafi?tab=repositories">
-    <img src="https://badges.strrl.dev/issues-and-prs/all/wasitshafi"/>
+    <img src="https://badges.strrl.dev/issues-and-prs/all/wasitshafi" alt="All_Issues_And_PRs"/>
   </a>
 <!-- GitHub Membership Years Badge -->
   <a href="https://github.com/wasitshafi/wasitshafi">
-    <img src="https://badges.strrl.dev/years/wasitshafi" alt="profile views" />
+    <img src="https://badges.strrl.dev/years/wasitshafi" alt="Years" />
   </a>
 <!-- Stackoverflow badge -->
   <a href="https://stackoverflow.com/users/10249156/wasitshafi">
-    <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray"/>
+    <img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/>
   </a>
 </p>
 <br>
@@ -48,7 +36,8 @@
 <!-- - 🧐 &nbsp; More interested in **Back End Technologies!** -->
 - 👨‍💻 &nbsp; Interested in **Back End Technologies**, professional work experience with **Front End Technologies**
 - 🎓 &nbsp; Master of Computer Applications
-- 🌐 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1pbk9lpAsXecNQfnN2LZpDDFkpn9cKC0-/view) || [Portfolio](https://wasitshafi.github.io/)
+- 🌐 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1eOz6O41hRVIyxqi8sGNHxgQbtlunMi_N/view?usp=sharing
+) || [Portfolio](https://wasitshafi.github.io/)
 - 💯 &nbsp; **Free DevTip:** First solve the MELBORP then CODE!
   <br>
 
