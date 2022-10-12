@@ -36,7 +36,7 @@
 <!-- - 🧐 &nbsp; More interested in **Back End Technologies!** -->
 - 👨‍💻 &nbsp; Interested in **Back End Technologies**, professional work experience with **Front End Technologies**
 - 🎓 &nbsp; Master of Computer Applications
-- 🌐 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1eOz6O41hRVIyxqi8sGNHxgQbtlunMi_N/view?usp=sharing
+- 🌐 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1eOz6O41hRVIyxqi8sGNHxgQbtlunMi_N/view
 ) || [Portfolio](https://wasitshafi.github.io/)
 - 💯 &nbsp; **Free DevTip:** First solve the MELBORP then CODE!
   <br>
