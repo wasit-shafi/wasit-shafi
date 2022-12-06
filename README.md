@@ -41,15 +41,7 @@
 - 💯 &nbsp; **Free DevTip:** First solve the MELBORP then CODE!
   <br>
 
-### <img src="https://img.icons8.com/office/20/000000/bar-chart.png"/> Github Stats
-
-<a href='https://github.com/wasitshafi/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/wasitshafi/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/wasitshafi/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-<br>
+<!-- ### <img src="https://img.icons8.com/office/20/000000/bar-chart.png"/> Github Stats -->
 
 ### 🧰 Languages & Tools:
 
