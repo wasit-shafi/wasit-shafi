@@ -28,7 +28,6 @@
     <img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/>
   </a>
 </p>
-<br>
 
 ### 📖 More About Me:
 
@@ -39,9 +38,20 @@
 - 🌐 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1eOz6O41hRVIyxqi8sGNHxgQbtlunMi_N/view
 ) || [Portfolio](https://wasitshafi.github.io/)
 - 💯 &nbsp; **Free DevTip:** First solve the MELBORP then CODE!
-  <br>
 
-<!-- ### <img src="https://img.icons8.com/office/20/000000/bar-chart.png"/> Github Stats -->
+### <img src="https://img.icons8.com/office/20/000000/bar-chart.png"/> Github Stats
+<div>
+  <a href="#">
+    <img align="center alt="wasit shafi stats" src="https://github-readme-stats-wasitshafi.vercel.app/api?username=wasitshafi&count_private=true&show_icons=true&hide_border=true&theme=onedark&include_all_commits=true"/>
+  </a>
+  <a href="#">
+    <img algin="center" alt="wasit shafi stats" src="https://github-readme-stats-wasitshafi.vercel.app/api/top-langs/?username=wasitshafi&count_private=true&show_icons=true&hide_border=true&theme=onedark&langs_count=10&layout=compact"/>
+  </a>
+  <!-- wakatime configure - pending -->
+  <!-- <a href="#"> -->
+    <!-- <img algin="center" alt="wasit shafi stats" src="https://github-readme-stats-wasitshafi.vercel.app/api/wakatime?username=wasitshafi"/> -->
+  <!-- </a> -->
+</div>
 
 ### 🧰 Languages & Tools:
 
@@ -57,7 +67,6 @@
   <a href="https://code.visualstudio.com" title="visualstudio code"><img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png" alt="vs-code" /></a>
    -->
 </p>
-<br />
 
 ### 🔗 Connect with me:
 
@@ -70,7 +79,5 @@
 <a href="https://www.instagram.com/wasitshafi/"><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" alt="instagram-wasitshafi"/></a>
 <a href="https://github.com/wasitshafi"><img src="https://img.icons8.com/color/50/000000/facebook-new.png" alt="wasitshafi-facebook"/></a>
  -->
-<br />
-
 
 <p align="center"><b>Thanks for your time!</b></p>
