@@ -46,10 +46,6 @@
   <a href="#">
     <img algin="center" alt="wasit shafi stats" src="https://github-readme-stats-wasitshafi.vercel.app/api/top-langs/?username=wasitshafi&count_private=true&show_icons=true&hide_border=true&theme=onedark&langs_count=10&layout=compact"/>
   </a>
-  <!-- wakatime configure - pending -->
-  <!-- <a href="#"> -->
-    <!-- <img algin="center" alt="wasit shafi stats" src="https://github-readme-stats-wasitshafi.vercel.app/api/wakatime?username=wasitshafi"/> -->
-  <!-- </a> -->
 </div>
 
 ### 🧰 Languages & Tools:
