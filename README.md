@@ -40,8 +40,8 @@
 ### <img src="https://img.icons8.com/office/20/000000/bar-chart.png"/> Github Stats
 
 <div>
-    <img alt="stats-reoloadBrowserOnceMore2View" src="https://github-readme-stats-wasitshafi.vercel.app/api?username=wasitshafi&count_private=true&show_icons=true&hide_border=true&theme=onedark&include_all_commits=true&hide=prs"/>
-    <img alt="stats-reoloadBrowserOnceMore2View" src="https://github-readme-stats-wasitshafi.vercel.app/api/top-langs/?username=wasitshafi&count_private=true&show_icons=true&hide_border=true&theme=onedark&langs_count=10&layout=compact"/>
+    <img alt="__reoload-browser-once-more-2-view-stats__" src="https://github-readme-stats-wasitshafi.vercel.app/api?username=wasitshafi&count_private=true&show_icons=true&hide_border=true&theme=onedark&include_all_commits=true&hide=prs"/>
+    <img alt="__reoload-browser-once-more-2-view-stats__" src="https://github-readme-stats-wasitshafi.vercel.app/api/top-langs/?username=wasitshafi&count_private=true&show_icons=true&hide_border=true&theme=onedark&langs_count=10&layout=compact"/>
 </div>
 
 ### 🧰 Languages & Tools:
