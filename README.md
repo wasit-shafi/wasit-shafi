@@ -36,7 +36,7 @@
 - 🎓 &nbsp; Master of Computer Applications
 - 🌐 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1eOz6O41hRVIyxqi8sGNHxgQbtlunMi_N/view) || [Portfolio](https://wasitshafi.github.io/)
 - 💯 &nbsp; **Free  DevTip:** First solve the MELBORP then CODE!
-- 💯 &nbsp; **Free !DevTip:** You become very strong when you realise, YOU CAN MAKE THINGS DONE ALL ALONE!
+- ✅ &nbsp; **Free !DevTip:** You become very strong when you realise, **YOU CAN MAKE THINGS DONE ALL ALONE**!
 
 ### <img src="https://img.icons8.com/office/20/000000/bar-chart.png"/> Github Stats
 
