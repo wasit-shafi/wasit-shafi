@@ -1,5 +1,5 @@
-<h1>:wave: Hello there! I'm Wasit Shafi</h1>
-<h3>🔭 Currently working as Full Stack SDE<h3>
+<h1>:wave: Hello World! I'm Wasit Shafi</h1>
+<h3>👨‍💻 Currently working as Full Stack SDE<h3>
 <p>
 <!-- Profile Views -->
   <a href="https://github.com/wasitshafi/wasitshafi">
@@ -32,7 +32,7 @@
 <!-- - 👨‍💻 &nbsp; I’m working on **Front End Technologies** -->
 <!-- - 🧐 &nbsp; More interested in **Back End Technologies!** -->
 
-- 👨‍💻 &nbsp; Exploring **MEAN** Stack & **Adv. DSA**, Interested in **Back-End Technologies**/**Problem Solving**
+- 🔍 &nbsp; Exploring **MEAN** Stack & **Adv. DSA**, Interested in **Back-End Technologies**/**Problem Solving**
 - 🎓 &nbsp; Master of Computer Applications
 - 🌐 &nbsp; Checkout my [Resume](https://bit.ly/wasit-shafi-resume) || [Portfolio](https://wasitshafi.github.io/)
 - 💯 &nbsp; **Free  DevTip:** First solve the MELBORP then CODE!
