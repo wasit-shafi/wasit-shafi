@@ -32,7 +32,7 @@
 <!-- - 👨‍💻 &nbsp; I’m working on **Front End Technologies** -->
 <!-- - 🧐 &nbsp; More interested in **Back End Technologies!** -->
 
-- 🔍 &nbsp; Exploring **MEAN** Stack & **Adv. DSA**, Interested in **Back-End Technologies**/**Problem Solving**
+- 🔍 &nbsp; Exploring **MEAN Stack**, **AWS** & **Adv. DSA**, Interested in **Back-End Technologies**/**Problem Solving**
 - 🎓 &nbsp; Master of Computer Applications
 - 🌐 &nbsp; Checkout my [Resume](https://bit.ly/wasit-shafi-resume) || [Portfolio](https://wasitshafi.github.io/)
 - 💯 &nbsp; **Free  DevTip:** First solve the MELBORP then CODE!
