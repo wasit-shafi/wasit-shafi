@@ -1,10 +1,7 @@
 <h1>:wave: Hello World! I'm Wasit Shafi</h1>
 <h3>👨‍💻 Currently working as Full Stack SDE<h3>
 <p>
-<!-- Profile Views -->
-  <a href="https://github.com/wasitshafi/wasitshafi">
-    <img src="https://komarev.com/ghpvc/?username=wasitshafi&label=ProfileViews" alt="Profile_Views"/>
-  </a>
+
 <!-- GitHub Contributions Badge -->
   <a href="https://github.com/wasitshafi?tab=repositories">
     <img src="https://badges.strrl.dev/contributions/all/wasitshafi" alt="All_Contributions"/>
@@ -12,6 +9,10 @@
 <!-- GitHub Commits Badge -->
   <a href="https://github.com/wasitshafi?tab=repositories">
     <img src="https://badges.strrl.dev/commits/all/wasitshafi" alt="All_Commits"/>
+  </a>
+<!-- Profile Views -->
+  <a href="https://github.com/wasitshafi/wasitshafi">
+    <img src="https://komarev.com/ghpvc/?username=wasitshafi&label=ProfileViews" alt="Profile_Views"/>
   </a>
 <!-- GitHub Issues and PRs Badge -->
   <a href="https://github.com/wasitshafi?tab=repositories">
