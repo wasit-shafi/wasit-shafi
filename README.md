@@ -3,23 +3,23 @@
 <p>
 
 <!-- GitHub Contributions Badge -->
-  <a href="https://github.com/wasitshafi?tab=repositories">
+  <a href="https://github.com/wasit-shafi?tab=repositories">
     <img src="https://badges.strrl.dev/contributions/all/wasitshafi" alt="All_Contributions"/>
   </a>
 <!-- GitHub Commits Badge -->
-  <a href="https://github.com/wasitshafi?tab=repositories">
+  <a href="https://github.com/wasit-shafi?tab=repositories">
     <img src="https://badges.strrl.dev/commits/all/wasitshafi" alt="All_Commits"/>
   </a>
 <!-- Profile Views -->
-  <a href="https://github.com/wasitshafi/wasitshafi">
+  <a href="https://github.com/wasit-shafi/wasitshafi">
     <img src="https://komarev.com/ghpvc/?username=wasitshafi&label=ProfileViews" alt="Profile_Views"/>
   </a>
 <!-- GitHub Issues and PRs Badge -->
-  <a href="https://github.com/wasitshafi?tab=repositories">
+  <a href="https://github.com/wasit-shafi?tab=repositories">
     <img src="https://badges.strrl.dev/issues-and-prs/all/wasitshafi" alt="All_Issues_And_PRs"/>
   </a>
 <!-- GitHub Membership Years Badge -->
-  <a href="https://github.com/wasitshafi/wasitshafi">
+  <a href="https://github.com/wasit-shafi/wasitshafi">
     <img src="https://badges.strrl.dev/years/wasitshafi" alt="Years" />
   </a>
 <!-- Stackoverflow badge -->
@@ -35,7 +35,7 @@
 
 - 🔍 &nbsp; Exploring **MEAN Stack**, **AWS** & **Adv. DSA**, Interested in **Back-End Technologies**/**Problem Solving**
 - 🎓 &nbsp; Master of Computer Applications
-- 🌐 &nbsp; Checkout my [Resume](https://bit.ly/wasit-shafi-resume) || [Portfolio](https://wasitshafi.github.io/)
+- 🌐 &nbsp; Checkout my [Resume](https://bit.ly/wasit-shafi-resume) || [Portfolio](https://wasit-shafi.github.io/)
 - 💯 &nbsp; **Free  DevTip:** First solve the MELBORP then CODE!
 
 ### <img src="https://img.icons8.com/office/20/000000/bar-chart.png"/> Github Stats
@@ -66,7 +66,7 @@
 ### 🔗 Connect with me:
 
 <a href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="email-id-wasitshafi"/></a>
-<a href="https://www.linkedin.com/in/wasitshafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasitshafi"/></a>
+<a href="https://www.linkedin.com/in/wasit-shafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasitshafi"/></a>
 <!-- <a href="https://join.skype.com/invite/VhQza341zfg7"><img src="https://img.icons8.com/color/48/000000/skype.png" alt="skype-wasitshafi"/></a> -->
 <br />
 
