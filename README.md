@@ -1,29 +1,29 @@
-<h1>:wave: Hello World! I'm Wasit Shafi</h1>
-<h3>👨‍💻 Currently working as Full Stack SDE<h3>
-<p>
+## :wave: Hello World! I'm Wasit Shafi
+<h5>👨‍💻 Currently working as a Full Stack SDE with 3+ years of experience in designing & delivering high quality web applications</h5>
 
 <!-- GitHub Contributions Badge -->
+
   <a href="https://github.com/wasit-shafi?tab=repositories">
-    <img src="https://badges.strrl.dev/contributions/all/wasitshafi" alt="All_Contributions"/>
+    <img src="https://badges.strrl.dev/contributions/all/wasit-shafi" alt="All_Contributions"/>
   </a>
 <!-- GitHub Commits Badge -->
   <a href="https://github.com/wasit-shafi?tab=repositories">
-    <img src="https://badges.strrl.dev/commits/all/wasitshafi" alt="All_Commits"/>
+    <img src="https://badges.strrl.dev/commits/all/wasit-shafi" alt="All_Commits"/>
   </a>
 <!-- Profile Views -->
-  <a href="https://github.com/wasit-shafi/wasitshafi">
-    <img src="https://komarev.com/ghpvc/?username=wasitshafi&label=ProfileViews" alt="Profile_Views"/>
+  <a href="https://github.com/wasit-shafi/wasit-shafi">
+    <img src="https://komarev.com/ghpvc/?username=wasit-shafi&label=ProfileViews" alt="Profile_Views"/>
   </a>
 <!-- GitHub Issues and PRs Badge -->
   <a href="https://github.com/wasit-shafi?tab=repositories">
-    <img src="https://badges.strrl.dev/issues-and-prs/all/wasitshafi" alt="All_Issues_And_PRs"/>
+    <img src="https://badges.strrl.dev/issues-and-prs/all/wasit-shafi" alt="All_Issues_And_PRs"/>
   </a>
 <!-- GitHub Membership Years Badge -->
-  <a href="https://github.com/wasit-shafi/wasitshafi">
-    <img src="https://badges.strrl.dev/years/wasitshafi" alt="Years" />
+  <a href="https://github.com/wasit-shafi/wasit-shafi">
+    <img src="https://badges.strrl.dev/years/wasit-shafi" alt="Years" />
   </a>
 <!-- Stackoverflow badge -->
-  <a href="https://stackoverflow.com/users/10249156/wasitshafi">
+  <a href="https://stackoverflow.com/users/10249156/wasit-shafi">
     <img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/>
   </a>
 </p>
@@ -32,19 +32,17 @@
 
 <!-- - 👨‍💻 &nbsp; I’m working on **Front End Technologies** -->
 <!-- - 🧐 &nbsp; More interested in **Back End Technologies!** -->
-
 - 🔍 &nbsp; Exploring **MEAN Stack**, **AWS** & **Adv. DSA**, Interested in **Back-End Technologies**/**Problem Solving**
 - 🎓 &nbsp; Master of Computer Applications
-- 🌐 &nbsp; Checkout my [Resume](https://bit.ly/wasit-shafi-resume) || [Portfolio](https://wasit-shafi.github.io/)
 - 💯 &nbsp; **Free  DevTip:** First solve the MELBORP then CODE!
-
+<!-- - 🌐 &nbsp; Checkout my [Resume](https://bit.ly/wasit-shafi-resume) || [Portfolio](https://wasit-shafi.github.io/) -->
+<!--
 ### <img src="https://img.icons8.com/office/20/000000/bar-chart.png"/> Github Stats
-
 <div>
-    <img alt="__reload-browser-once-more-2-view-stats__" src="https://github-readme-stats-wasitshafi.vercel.app/api?username=wasitshafi&count_private=true&show_icons=true&hide_border=true&theme=onedark&include_all_commits=true&hide=prs"/>
-    <img alt="__reload-browser-once-more-2-view-stats__" src="https://github-readme-stats-wasitshafi.vercel.app/api/top-langs/?username=wasitshafi&count_private=true&show_icons=true&hide_border=true&theme=onedark&langs_count=10&layout=compact"/>
+    <img alt="__reload-browser-once-more-2-view-stats__" src="https://github-readme-stats-wasit-shafi.vercel.app/api?username=wasit-shafi&count_private=true&show_icons=true&hide_border=true&theme=onedark&include_all_commits=true&hide=prs"/>
+    <img alt="__reload-browser-once-more-2-view-stats__" src="https://github-readme-stats-wasit-shafi.vercel.app/api/top-langs/?username=wasit-shafi&count_private=true&show_icons=true&hide_border=true&theme=onedark&langs_count=10&layout=compact"/>
 </div>
-
+-->
 ### 🧰 Languages & Tools:
 
 <!-- https://icons8.com/icons -->
@@ -65,9 +63,8 @@
 
 ### 🔗 Connect with me:
 
-<a href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="email-id-wasitshafi"/></a>
-<a href="https://www.linkedin.com/in/wasit-shafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasitshafi"/></a>
-<!-- <a href="https://join.skype.com/invite/VhQza341zfg7"><img src="https://img.icons8.com/color/48/000000/skype.png" alt="skype-wasitshafi"/></a> -->
+<a href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="wasitshafi700@gmail.com"/></a>
+<a href="https://www.linkedin.com/in/wasit-shafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasit-shafi"/></a>
 <br />
 
 <p align="center"><b>Thanks for your time!</b></p>
