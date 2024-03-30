@@ -1,31 +1,32 @@
 ## :wave: Hello World! I'm Wasit Shafi
 <h5>👨‍💻 Currently working as a Full Stack SDE with 3+ years of experience in designing & delivering high quality web applications</h5>
+-Formatted HTML-
 
-<!-- GitHub Contributions Badge -->
-
-  <a href="https://github.com/wasit-shafi?tab=repositories">
-    <img src="https://badges.strrl.dev/contributions/all/wasit-shafi" alt="All_Contributions"/>
-  </a>
-<!-- GitHub Commits Badge -->
-  <a href="https://github.com/wasit-shafi?tab=repositories">
-    <img src="https://badges.strrl.dev/commits/all/wasit-shafi" alt="All_Commits"/>
-  </a>
-<!-- Profile Views -->
-  <a href="https://github.com/wasit-shafi/wasit-shafi">
-    <img src="https://komarev.com/ghpvc/?username=wasit-shafi&label=ProfileViews" alt="Profile_Views"/>
-  </a>
-<!-- GitHub Issues and PRs Badge -->
-  <a href="https://github.com/wasit-shafi?tab=repositories">
-    <img src="https://badges.strrl.dev/issues-and-prs/all/wasit-shafi" alt="All_Issues_And_PRs"/>
-  </a>
-<!-- GitHub Membership Years Badge -->
-  <a href="https://github.com/wasit-shafi/wasit-shafi">
-    <img src="https://badges.strrl.dev/years/wasit-shafi" alt="Years" />
-  </a>
-<!-- Stackoverflow badge -->
-  <a href="https://stackoverflow.com/users/10249156/wasit-shafi">
-    <img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/>
-  </a>
+<p>
+   <!-- GitHub Contributions Badge -->
+   <a href="https://github.com/wasit-shafi?tab=repositories">
+   <img src="https://badges.strrl.dev/contributions/all/wasit-shafi" alt="All_Contributions"/>
+   </a>
+   <!-- GitHub Commits Badge -->
+   <a href="https://github.com/wasit-shafi?tab=repositories">
+   <img src="https://badges.strrl.dev/commits/all/wasit-shafi" alt="All_Commits"/>
+   </a>
+   <!-- Profile Views -->
+   <a href="https://github.com/wasit-shafi/wasit-shafi">
+   <img src="https://komarev.com/ghpvc/?username=wasit-shafi&label=ProfileViews" alt="Profile_Views"/>
+   </a>
+   <!-- GitHub Issues and PRs Badge -->
+   <a href="https://github.com/wasit-shafi?tab=repositories">
+   <img src="https://badges.strrl.dev/issues-and-prs/all/wasit-shafi" alt="All_Issues_And_PRs"/>
+   </a>
+   <!-- GitHub Membership Years Badge -->
+   <a href="https://github.com/wasit-shafi/wasit-shafi">
+   <img src="https://badges.strrl.dev/years/wasit-shafi" alt="Years" />
+   </a>
+   <!-- Stackoverflow badge -->
+   <a href="https://stackoverflow.com/users/10249156/wasit-shafi">
+   <img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/>
+   </a>
 </p>
 
 ### 📖 More About Me:
