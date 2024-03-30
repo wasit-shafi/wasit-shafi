@@ -1,6 +1,5 @@
 ## :wave: Hello World! I'm Wasit Shafi
 <h5>👨‍💻 Currently working as a Full Stack SDE with 3+ years of experience in designing & delivering high quality web applications</h5>
--Formatted HTML-
 
 <p>
    <!-- GitHub Contributions Badge -->
