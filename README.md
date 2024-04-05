@@ -47,6 +47,8 @@
 <a href="https://reactjs.org/" title="ReactJS" ><img src="https://reactjs.org/favicon.ico" alt="react" height="50px" width="50px" /></a>
     <!-- tailwind css -->
 <a href="https://tailwindcss.com/" title="Tailwind CSS" ><img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/></a>
+<!-- bootstrap -->
+<a href="https://getbootstrap.com/" title="Bootstrap" ><img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap"/></a>
     <!-- html5 -->
 <a href="https://en.wikipedia.org/wiki/HTML"  title="HTML" ><img src="https://img.icons8.com/color/50/000000/html-5.png"alt="html" /></a>
     <!-- css -->
@@ -56,7 +58,9 @@
     <!-- electron.js -->
 <a href="https://www.electronjs.org" title="ElectronJS" ><img src="https://www.electronjs.org/assets/img/logo.svg" alt="electron-js" height="50px" width="50px"/></a>
     <!-- react native -->
+<!--
 <a href="https://reactnative.dev/" title="React Native" ><img src="https://reactnative.dev/img/header_logo.svg" alt="react-native" height="50px" width="50px"/></a>
+-->
 </p>
 
 ### Backend Technologies
