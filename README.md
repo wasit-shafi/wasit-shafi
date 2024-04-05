@@ -111,6 +111,8 @@
 <p>
     <!-- socket.io -->
 <a href="https://socket.io/" title="socket.io"><img src="https://socket.io/images/favicon.png" alt="socket.io"  height="50px" width="50px"/></a>
+    <!-- Web Animation API -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API" title="Web Animation API"><img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712355381/personal-data/ipzvxaa2fmoljhhttqcl.png" alt="web-animation-api"  height="50px" width="50px"/></a>    
     <!-- webpack -->
 <!--
 <a href="https://webpack.js.org" title="WebPack"><img src="https://img.icons8.com/color/50/000000/webpack.png"  alt="webpack" /></a>
