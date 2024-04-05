@@ -42,7 +42,7 @@
 ### Frontend Technologies
 <p>
     <!-- angular -->
-<a href="https://angular.io/" title="Angular" ><img width="48" height="48" src="https://angular.dev/assets/icons/favicon-32x32.png" alt="angularjs"/></a>
+<a href="https://angular.dev/" title="Angular" ><img width="48" height="48" src="https://angular.dev/assets/icons/favicon-32x32.png" alt="angularjs"/></a>
     <!-- reactjs -->
 <a href="https://reactjs.org/" title="ReactJS" ><img src="https://reactjs.org/favicon.ico" alt="react" height="50px" width="50px" /></a>
     <!-- tailwind css -->
