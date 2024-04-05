@@ -30,7 +30,7 @@
     <!-- javascript -->
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" ><img src="https://img.icons8.com/color/50/000000/javascript.png" alt="javascript"/></a>
     <!-- java -->
-<a href="https://docs.oracle.com/javase/8" title="JAVA" ><img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="java" /></a>
+<a href="https://docs.oracle.com/javase/8" title="Java" ><img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="java" /></a>
     <!-- cpp -->
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++" ><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="cpp" /></a>
     <!-- c -->
@@ -42,25 +42,21 @@
 ### Frontend Technologies
 <p>
     <!-- angular -->
-<a href="https://angular.dev/" title="Angular" ><img width="48" height="48" src="https://angular.dev/assets/icons/favicon-32x32.png" alt="angularjs"/></a>
-    <!-- reactjs -->
+<a href="https://angular.dev/" title="Angular" ><img width="48" height="48" src="https://angular.dev/assets/icons/favicon-32x32.png" alt="angular"/></a>
+    <!-- react -->
 <a href="https://reactjs.org/" title="ReactJS" ><img src="https://reactjs.org/favicon.ico" alt="react" height="50px" width="50px" /></a>
     <!-- tailwind css -->
 <a href="https://tailwindcss.com/" title="Tailwind CSS" ><img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/></a>
 <!-- bootstrap -->
 <a href="https://getbootstrap.com/" title="Bootstrap" ><img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/></a>
     <!-- html5 -->
-<a href="https://en.wikipedia.org/wiki/HTML"  title="HTML" ><img src="https://img.icons8.com/color/50/000000/html-5.png"alt="html" /></a>
-    <!-- css -->
+<a href="https://en.wikipedia.org/wiki/HTML"  title="HTML" ><img src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML" /></a>
+    <!-- CSS -->
 <a href="https://en.wikipedia.org/wiki/CSS" title="CSS" ><img src="https://img.icons8.com/color/50/000000/css3.png" alt="css3" /></a>
     <!-- scss -->
 <a href="https://sass-lang.com" title="SCSS" ><img src="https://img.icons8.com/color/50/000000/sass.png" alt="scss" /></a>
     <!-- electron.js -->
 <a href="https://www.electronjs.org" title="ElectronJS" ><img src="https://www.electronjs.org/assets/img/logo.svg" alt="electron-js" height="50px" width="50px"/></a>
-    <!-- react native -->
-<!--
-<a href="https://reactnative.dev/" title="React Native" ><img src="https://reactnative.dev/img/header_logo.svg" alt="react-native" height="50px" width="50px"/></a>
--->
 </p>
 
 ### Backend Technologies
@@ -87,8 +83,8 @@
 <p>
     <!-- NgRx -->
 <a href="https://ngrx.io/" title="NgRx" ><img src="https://ngrx.io/assets/images/badge.svg" alt="NgRx" width="48" height="48" /></a>
-    <!-- mobx-state-tree -->
-<a href="https://mobx-state-tree.js.org"  title="Mob-X-State Tree"><img src="https://mobx-state-tree.js.org/img/favicon.ico" alt="MST" width="50" height="50"/></a>
+    <!-- mobX-state-tree -->
+<a href="https://mobx-state-tree.js.org"  title="MobX-State-Tree"><img src="https://mobx-state-tree.js.org/img/favicon.ico" alt="MST" width="50" height="50"/></a>
     <!-- redux -->
 <a href="https://redux.js.org" title="Redux" ><img src="https://img.icons8.com/color/50/000000/redux.png" alt="Redux"/></a>
 </p>
