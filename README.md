@@ -111,12 +111,6 @@
 <p>
     <!-- socket.io -->
 <a href="https://socket.io/" title="socket.io"><img src="https://socket.io/images/favicon.png" alt="socket.io"  height="50px" width="50px"/></a>
-    <!-- git -->
-<a href="https://git-scm.com" title="GIT" ><img src="https://img.icons8.com/color/50/000000/git.png" alt="git" /></a>
-    <!-- jira -->
-<a href="https://www.atlassian.com/software/jira" title="Jira"><img src="https://img.icons8.com/color/50/000000/jira.png" alt="jira" /></a>
-    <!-- confluence -->
-<a href="https://www.atlassian.com/software/confluence" title="Confluence" ><img width="48" height="48" src="https://img.icons8.com/color/48/confluence--v2.png" alt="confluence"/></a>
     <!-- webpack -->
 <!--
 <a href="https://webpack.js.org" title="WebPack"><img src="https://img.icons8.com/color/50/000000/webpack.png"  alt="webpack" /></a>
