@@ -48,7 +48,7 @@
     <!-- tailwind css -->
 <a href="https://tailwindcss.com/" title="Tailwind CSS" ><img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/></a>
 <!-- bootstrap -->
-<a href="https://getbootstrap.com/" title="Bootstrap" ><img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap"/></a>
+<a href="https://getbootstrap.com/" title="Bootstrap" ><img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/></a>
     <!-- html5 -->
 <a href="https://en.wikipedia.org/wiki/HTML"  title="HTML" ><img src="https://img.icons8.com/color/50/000000/html-5.png"alt="html" /></a>
     <!-- css -->
