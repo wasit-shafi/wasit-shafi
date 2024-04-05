@@ -5,7 +5,7 @@
 <a href="https://github.com/wasit-shafi?tab=repositories"><img src="https://badges.strrl.dev/contributions/all/wasit-shafi" alt="All_Contributions"/></a> <a href="https://github.com/wasit-shafi?tab=repositories"><img src="https://badges.strrl.dev/commits/all/wasit-shafi" alt="All_Commits"/></a> <a href="https://github.com/wasit-shafi/wasit-shafi"><img src="https://komarev.com/ghpvc/?username=wasit-shafi&label=ProfileViews" alt="Profile_Views"/></a> <a href="https://github.com/wasit-shafi?tab=repositories"><img src="https://badges.strrl.dev/issues-and-prs/all/wasit-shafi" alt="All_Issues_And_PRs"/></a> <a href="https://github.com/wasit-shafi/wasit-shafi"><img src="https://badges.strrl.dev/years/wasit-shafi" alt="Years" /></a> <a href="https://stackoverflow.com/users/10249156/wasit-shafi"><img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
 </p>
 
-### 📖 More About Me:
+### 📖 More About Me
 
 <!-- - 👨‍💻 &nbsp; I’m working on **Front End Technologies** -->
 <!-- - 🔍 &nbsp; More interested in **Back End Technologies!** -->
@@ -23,10 +23,10 @@
 
 <!-- https://icons8.com/icons -->
 
-### Programming Languages:
+### Programming Languages
 <p>
     <!-- typescript -->
-<a href="https://www.typescriptlang.org"  title="TypeScript" ><img src="https://img.icons8.com/color/50/000000/typescript.png" alt="typescript"/></a>
+<a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://img.icons8.com/color/50/000000/typescript.png" alt="typescript"/></a>
     <!-- javascript -->
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" ><img src="https://img.icons8.com/color/50/000000/javascript.png" alt="javascript"/></a>
     <!-- java -->
@@ -39,27 +39,27 @@
 <a href="https://www.python.org" title="Python" ><img src="https://img.icons8.com/color/50/000000/python.png" alt="python" /></a>
 </p>
 
-### Frontend Technologies:
+### Frontend Technologies
 <p>
     <!-- angular -->
-<a href="https://angular.io/" title="angular" ><img width="48" height="48" src="https://angular.dev/assets/icons/favicon-32x32.png" alt="angularjs"/></a>
+<a href="https://angular.io/" title="Angular" ><img width="48" height="48" src="https://angular.dev/assets/icons/favicon-32x32.png" alt="angularjs"/></a>
     <!-- reactjs -->
-<a href="https://reactjs.org/" title="React" ><img src="https://reactjs.org/favicon.ico" alt="react" height="50px" width="50px" /></a>
+<a href="https://reactjs.org/" title="ReactJS" ><img src="https://reactjs.org/favicon.ico" alt="react" height="50px" width="50px" /></a>
     <!-- tailwind css -->
-<a href="https://tailwindcss.com/" title="tailwind CSS" ><img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/></a>
+<a href="https://tailwindcss.com/" title="Tailwind CSS" ><img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/></a>
     <!-- html5 -->
 <a href="https://en.wikipedia.org/wiki/HTML"  title="HTML" ><img src="https://img.icons8.com/color/50/000000/html-5.png"alt="html" /></a>
     <!-- css -->
 <a href="https://en.wikipedia.org/wiki/CSS" title="CSS" ><img src="https://img.icons8.com/color/50/000000/css3.png" alt="css3" /></a>
     <!-- scss -->
-<a href="https://sass-lang.com" title="SASS" ><img src="https://img.icons8.com/color/50/000000/sass.png" alt="scss" /></a>
+<a href="https://sass-lang.com" title="SCSS" ><img src="https://img.icons8.com/color/50/000000/sass.png" alt="scss" /></a>
     <!-- electron.js -->
-<a href="https://www.electronjs.org" title="Electron" ><img src="https://www.electronjs.org/assets/img/logo.svg" alt="electron-js" height="50px" width="50px"/></a>
+<a href="https://www.electronjs.org" title="ElectronJS" ><img src="https://www.electronjs.org/assets/img/logo.svg" alt="electron-js" height="50px" width="50px"/></a>
     <!-- react native -->
 <a href="https://reactnative.dev/" title="React Native" ><img src="https://reactnative.dev/img/header_logo.svg" alt="react-native" height="50px" width="50px"/></a>
 </p>
 
-### Backend Technologies:
+### Backend Technologies
 <p>
     <!-- node.js -->
 <a href="https://nodejs.org/en" title="NodeJS" ><img src="https://img.icons8.com/fluency/50/000000/node-js.png" alt="node-js" /></a>
@@ -67,7 +67,7 @@
 <a href="https://expressjs.com/"  title="ExpressJS" ><img width="48" height="48" src="https://img.icons8.com/fluency/48/express-js.png" alt="express-js"/></a>
 </p>
 
-### Databases & ODM:
+### Databases & ODM
 <p>
     <!-- mongoDB -->
 <a href="https://www.mongodb.com"  title="MongoDB" ><img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="mongodb" /></a>
@@ -79,7 +79,7 @@
 <a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/" title="Oracle SQL" ><img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712345863/personal-data/ami8m0ldozibr0vs8ixv.png" alt="oracle-sql" width="48" height="48" /></a>
 </p>
 
-### State Management:
+### State Management
 <p>
     <!-- NgRx -->
 <a href="https://ngrx.io/" title="NgRx" ><img src="https://ngrx.io/assets/images/badge.svg" alt="NgRx" width="48" height="48" /></a>
@@ -87,10 +87,9 @@
 <a href="https://mobx-state-tree.js.org"  title="Mob-X-State Tree"><img src="https://mobx-state-tree.js.org/img/favicon.ico" alt="MST" width="50" height="50"/></a>
     <!-- redux -->
 <a href="https://redux.js.org" title="Redux" ><img src="https://img.icons8.com/color/50/000000/redux.png" alt="Redux"/></a>
-    
 </p>
 
-### Cloud:
+### Cloud
 <p>
     <!-- AWS -->
 <a href="https://aws.amazon.com" title="Amazon Web Services" ><img width="50" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/></a>
@@ -104,22 +103,24 @@
 -->
 </p>
 
-### Others:
+### Others
 <p>
+    <!-- socket.io -->
+<a href="https://socket.io/" title="socket.io"><img src="https://socket.io/images/favicon.png" alt="socket.io"  height="50px" width="50px"/></a>
     <!-- git -->
 <a href="https://git-scm.com" title="GIT" ><img src="https://img.icons8.com/color/50/000000/git.png" alt="git" /></a>
     <!-- jira -->
 <a href="https://www.atlassian.com/software/jira" title="Jira"><img src="https://img.icons8.com/color/50/000000/jira.png" alt="jira" /></a>
     <!-- confluence -->
 <a href="https://www.atlassian.com/software/confluence" title="Confluence" ><img width="48" height="48" src="https://img.icons8.com/color/48/confluence--v2.png" alt="confluence"/></a>
-    <!-- socket.io -->
-<a href="https://socket.io/" title="socket.io"><img src="https://socket.io/images/favicon.png" alt="socket.io"  height="50px" width="50px"/></a>
     <!-- webpack -->
+<!--
 <a href="https://webpack.js.org" title="WebPack"><img src="https://img.icons8.com/color/50/000000/webpack.png"  alt="webpack" /></a>
+-->
 </p>
 
 
-### 🔗 Connect with me:
+### Connect with me
 
 <a href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="wasitshafi700@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/wasit-shafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasit-shafi"/></a>
@@ -127,4 +128,3 @@
 
 <p align="center"><b>Thanks for your time!</b></p>
 <hr/>
-
