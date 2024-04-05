@@ -39,8 +39,7 @@
 <a href="https://www.python.org" title="Python" ><img src="https://img.icons8.com/color/50/000000/python.png" alt="python" /></a>
 </p>
 
-### 
-Frontend Technologies:
+### Frontend Technologies:
 <p>
     <!-- angular -->
 <a href="https://angular.io/" title="angular" ><img width="48" height="48" src="https://angular.dev/assets/icons/favicon-32x32.png" alt="angularjs"/></a>
@@ -73,9 +72,9 @@ Frontend Technologies:
     <!-- mongoDB -->
 <a href="https://www.mongodb.com"  title="MongoDB" ><img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="mongodb" /></a>
     <!-- oracle sql -->
-<a href="https://en.wikipedia.org/wiki/SQL" title="SQL" ><img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/50/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" alt="sql" /></a>
+<a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/" title="Oracle SQL" ><img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712345863/personal-data/ami8m0ldozibr0vs8ixv.png" alt="oracle-sql" width="48" height="48" /></a>
     <!-- mysql -->
-<a href="https://en.wikipedia.org/wiki/SQL" title="SQL" ><img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/50/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" alt="sql" /></a>
+<a href="https://www.mysql.com/" title="My SQL" ><img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712346367/personal-data/dsjknkg9hdemhg3p6j6w.png" width="48" height="48" alt="my-sql" /></a>
 </p>
 
 ### State Management:
@@ -94,7 +93,9 @@ Frontend Technologies:
     <!-- AWS -->
 <a href="https://aws.amazon.com" title="Amazon Web Services" ><img width="50" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/></a>
     <!-- nginx -->
-<a href="https://www.nginx.com/" title="Ngnix Web Server" ><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-nginx-accelerates-content-and-application-delivery-improves-security-logo-color-tal-revivo.png" alt="Nginx"/></a>    
+<a href="https://www.nginx.com/" title="Ngnix Web Server" ><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-nginx-accelerates-content-and-application-delivery-improves-security-logo-color-tal-revivo.png" alt="Nginx"/></a>
+    <!-- docker -->
+<a href="https://www.docker.com/"  title="Docker" ><img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/></a>
     <!-- firebase -->
 <a href="https://firebase.google.com"  title="Firebase" ><img src="https://img.icons8.com/color/50/000000/google-firebase-console.png" alt="firebase" /></a>
 </p>
@@ -107,10 +108,10 @@ Frontend Technologies:
 <a href="https://www.atlassian.com/software/jira" title="Jira"><img src="https://img.icons8.com/color/50/000000/jira.png" alt="jira" /></a>
     <!-- confluence -->
 <a href="https://www.atlassian.com/software/confluence" title="Confluence" ><img width="48" height="48" src="https://img.icons8.com/color/48/confluence--v2.png" alt="confluence"/></a>
-    <!-- webpack -->
-<a href="https://webpack.js.org" title="WebPack"><img src="https://img.icons8.com/color/50/000000/webpack.png"  alt="webpack" /></a>
     <!-- socket.io -->
 <a href="https://socket.io/" title="socket.io"><img src="https://socket.io/images/favicon.png" alt="socket.io"  height="50px" width="50px"/></a>
+    <!-- webpack -->
+<a href="https://webpack.js.org" title="WebPack"><img src="https://img.icons8.com/color/50/000000/webpack.png"  alt="webpack" /></a>
 </p>
 
 
