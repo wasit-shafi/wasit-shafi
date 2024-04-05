@@ -2,37 +2,14 @@
 <h5>👨‍💻 Currently working as a Full Stack SDE with 3+ years of experience in designing & delivering high quality web applications</h5>
 
 <p>
-   <!-- GitHub Contributions Badge -->
-   <a href="https://github.com/wasit-shafi?tab=repositories">
-   <img src="https://badges.strrl.dev/contributions/all/wasit-shafi" alt="All_Contributions"/>
-   </a>
-   <!-- GitHub Commits Badge -->
-   <a href="https://github.com/wasit-shafi?tab=repositories">
-   <img src="https://badges.strrl.dev/commits/all/wasit-shafi" alt="All_Commits"/>
-   </a>
-   <!-- Profile Views -->
-   <a href="https://github.com/wasit-shafi/wasit-shafi">
-   <img src="https://komarev.com/ghpvc/?username=wasit-shafi&label=ProfileViews" alt="Profile_Views"/>
-   </a>
-   <!-- GitHub Issues and PRs Badge -->
-   <a href="https://github.com/wasit-shafi?tab=repositories">
-   <img src="https://badges.strrl.dev/issues-and-prs/all/wasit-shafi" alt="All_Issues_And_PRs"/>
-   </a>
-   <!-- GitHub Membership Years Badge -->
-   <a href="https://github.com/wasit-shafi/wasit-shafi">
-   <img src="https://badges.strrl.dev/years/wasit-shafi" alt="Years" />
-   </a>
-   <!-- Stackoverflow badge -->
-   <a href="https://stackoverflow.com/users/10249156/wasit-shafi">
-   <img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/>
-   </a>
+<a href="https://github.com/wasit-shafi?tab=repositories"><img src="https://badges.strrl.dev/contributions/all/wasit-shafi" alt="All_Contributions"/></a> <a href="https://github.com/wasit-shafi?tab=repositories"><img src="https://badges.strrl.dev/commits/all/wasit-shafi" alt="All_Commits"/></a> <a href="https://github.com/wasit-shafi/wasit-shafi"><img src="https://komarev.com/ghpvc/?username=wasit-shafi&label=ProfileViews" alt="Profile_Views"/></a> <a href="https://github.com/wasit-shafi?tab=repositories"><img src="https://badges.strrl.dev/issues-and-prs/all/wasit-shafi" alt="All_Issues_And_PRs"/></a> <a href="https://github.com/wasit-shafi/wasit-shafi"><img src="https://badges.strrl.dev/years/wasit-shafi" alt="Years" /></a> <a href="https://stackoverflow.com/users/10249156/wasit-shafi"><img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
 </p>
 
 ### 📖 More About Me:
 
 <!-- - 👨‍💻 &nbsp; I’m working on **Front End Technologies** -->
-<!-- - 🧐 &nbsp; More interested in **Back End Technologies!** -->
-- 🔍 &nbsp; Exploring **MEAN Stack**, **AWS** & **Adv. DSA**, Interested in **Back-End Technologies**/**Problem Solving**
+<!-- - 🔍 &nbsp; More interested in **Back End Technologies!** -->
+- 🧐 &nbsp; Exploring **MEAN Stack**, **AWS** & **Adv. DSA**, Interested in **Back-End Technologies**/**Problem Solving**
 - 🎓 &nbsp; Master of Computer Applications
 - 💯 &nbsp; **Free  DevTip:** First solve the MELBORP then CODE!
 <!-- - 🌐 &nbsp; Checkout my [Resume](https://bit.ly/wasit-shafi-resume) || [Portfolio](https://wasit-shafi.github.io/) -->
@@ -47,7 +24,63 @@
 
 <!-- https://icons8.com/icons -->
 <p>
-<a href="https://www.mongodb.com"  title="MongoDB" ><img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="mongodb" /></a><a href="https://expressjs.com/"  title="ExpressJS" ><img width="48" height="48" src="https://img.icons8.com/fluency/48/express-js.png" alt="express-js"/></a><a href="https://angular.io/" title="angular" ><img width="48" height="48" src="https://angular.dev/assets/icons/favicon-32x32.png" alt="angularjs"/></a><a href="https://nodejs.org/en" title="NodeJS" ><img src="https://img.icons8.com/fluency/50/000000/node-js.png" alt="node-js" /></a><a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" ><img src="https://img.icons8.com/color/50/000000/javascript.png" alt="javascript"/></a><a href="https://www.typescriptlang.org"  title="TypeScript" ><img src="https://img.icons8.com/color/50/000000/typescript.png" alt="typescript"/></a><a href="https://en.wikipedia.org/wiki/HTML"  title="HTML" ><img src="https://img.icons8.com/color/50/000000/html-5.png"alt="html" /></a><a href="https://en.wikipedia.org/wiki/CSS" title="CSS" ><img src="https://img.icons8.com/color/50/000000/css3.png" alt="css3" /></a><a href="https://tailwindcss.com/" title="tailwind CSS" ><img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/></a><a href="https://sass-lang.com" title="SASS" ><img src="https://img.icons8.com/color/50/000000/sass.png" alt="sass" /></a><a href="https://aws.amazon.com" title="Amazon Web Services" ><img width="50" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/></a><a href="https://www.nginx.com/" title="Ngnix Web Server" ><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-nginx-accelerates-content-and-application-delivery-improves-security-logo-color-tal-revivo.png" alt="Nginx"/></a><a href="https://reactjs.org/" title="React" ><img src="https://reactjs.org/favicon.ico" alt="react" height="50px" width="50px" /></a><a href="https://reactnative.dev/" title="React Native" ><img src="https://reactnative.dev/img/pwa/manifest-icon-512.png" alt="react-native" height="50px" width="50px"/></a><a href="https://www.electronjs.org" title="Electron" ><img src="https://www.electronjs.org/assets/img/logo.svg" alt="electron-js" height="50px" width="50px"/></a><a href="https://redux.js.org" title="Redux" ><img src="https://img.icons8.com/color/50/000000/redux.png" alt="Redux"/></a><a href="https://mobx-state-tree.js.org"  title="Mob-X-State Tree" ><img src="https://mobx-state-tree.js.org/img/favicon.ico" alt="MST" width="50" height="50"/></a><a href="https://firebase.google.com"  title="Firebase" ><img src="https://img.icons8.com/color/50/000000/google-firebase-console.png" alt="firebase" /></a><a href="https://socket.io/" title="socket.io"><img src="https://socket.io/images/favicon.png" alt="socket.io"  height="50px" width="50px"/></a><a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C" ><img src="https://img.icons8.com/color/50/000000/c-programming.png" alt="c" /></a><a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++" ><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="cpp" /></a><a href="https://docs.oracle.com/javase/8" title="JAVA" ><img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="java" /></a><a href="https://en.wikipedia.org/wiki/SQL" title="SQL" ><img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/50/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" alt="sql" /></a><a href="https://www.python.org" title="Python" ><img src="https://img.icons8.com/color/50/000000/python.png" alt="python" /></a><a href="https://git-scm.com" title="GIT" ><img src="https://img.icons8.com/color/50/000000/git.png" alt="git" /></a><a href="https://www.atlassian.com/software/jira" title="Jira"><img src="https://img.icons8.com/color/50/000000/jira.png" alt="jira" /></a><a href="https://www.atlassian.com/software/confluence" title="Confluence" ><img width="48" height="48" src="https://img.icons8.com/color/48/confluence--v2.png" alt="confluence"/></a><a href="https://www.latex-project.org" title="Latex" ><img src="https://img.icons8.com/color/50/000000/latex.png" alt="latex" /></a>
+<!-- mongoDB -->
+<a href="https://www.mongodb.com"  title="MongoDB" ><img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="mongodb" /></a>
+   <!-- express.js -->
+<a href="https://expressjs.com/"  title="ExpressJS" ><img width="48" height="48" src="https://img.icons8.com/fluency/48/express-js.png" alt="express-js"/></a>
+   <!-- angular -->
+<a href="https://angular.io/" title="angular" ><img width="48" height="48" src="https://angular.dev/assets/icons/favicon-32x32.png" alt="angularjs"/></a>
+   <!-- node.js -->
+<a href="https://nodejs.org/en" title="NodeJS" ><img src="https://img.icons8.com/fluency/50/000000/node-js.png" alt="node-js" /></a>
+   <!--  -->
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" ><img src="https://img.icons8.com/color/50/000000/javascript.png" alt="javascript"/></a>
+   <!--  -->
+<a href="https://www.typescriptlang.org"  title="TypeScript" ><img src="https://img.icons8.com/color/50/000000/typescript.png" alt="typescript"/></a>
+   <!--  -->
+<a href="https://en.wikipedia.org/wiki/HTML"  title="HTML" ><img src="https://img.icons8.com/color/50/000000/html-5.png"alt="html" /></a>
+   <!--  -->
+<a href="https://en.wikipedia.org/wiki/CSS" title="CSS" ><img src="https://img.icons8.com/color/50/000000/css3.png" alt="css3" /></a>
+   <!--  -->
+<a href="https://tailwindcss.com/" title="tailwind CSS" ><img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/></a>
+   <!--  -->
+<a href="https://sass-lang.com" title="SASS" ><img src="https://img.icons8.com/color/50/000000/sass.png" alt="sass" /></a>
+   <!--  -->
+<a href="https://aws.amazon.com" title="Amazon Web Services" ><img width="50" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/></a>
+   <!--  -->
+<a href="https://www.nginx.com/" title="Ngnix Web Server" ><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-nginx-accelerates-content-and-application-delivery-improves-security-logo-color-tal-revivo.png" alt="Nginx"/></a>
+   <!--  -->
+<a href="https://reactjs.org/" title="React" ><img src="https://reactjs.org/favicon.ico" alt="react" height="50px" width="50px" /></a>
+   <!--  -->
+<a href="https://reactnative.dev/" title="React Native" ><img src="https://reactnative.dev/img/pwa/manifest-icon-512.png" alt="react-native" height="50px" width="50px"/></a>
+   <!--  -->
+<a href="https://www.electronjs.org" title="Electron" ><img src="https://www.electronjs.org/assets/img/logo.svg" alt="electron-js" height="50px" width="50px"/></a>
+   <!--  -->
+<a href="https://redux.js.org" title="Redux" ><img src="https://img.icons8.com/color/50/000000/redux.png" alt="Redux"/></a>
+   <!--  -->
+<a href="https://mobx-state-tree.js.org"  title="Mob-X-State Tree" ><img src="https://mobx-state-tree.js.org/img/favicon.ico" alt="MST" width="50" height="50"/></a>
+   <!--  -->
+<a href="https://firebase.google.com"  title="Firebase" ><img src="https://img.icons8.com/color/50/000000/google-firebase-console.png" alt="firebase" /></a>
+   <!--  -->
+<a href="https://socket.io/" title="socket.io"><img src="https://socket.io/images/favicon.png" alt="socket.io"  height="50px" width="50px"/></a>
+   <!--  -->
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C" ><img src="https://img.icons8.com/color/50/000000/c-programming.png" alt="c" /></a>
+   <!--  -->
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++" ><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="cpp" /></a>
+   <!--  -->
+<a href="https://docs.oracle.com/javase/8" title="JAVA" ><img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="java" /></a>
+   <!--  -->
+<a href="https://en.wikipedia.org/wiki/SQL" title="SQL" ><img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/50/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" alt="sql" /></a>
+   <!--  -->
+<a href="https://www.python.org" title="Python" ><img src="https://img.icons8.com/color/50/000000/python.png" alt="python" /></a>
+   <!--  -->
+<a href="https://git-scm.com" title="GIT" ><img src="https://img.icons8.com/color/50/000000/git.png" alt="git" /></a>
+   <!--  -->
+<a href="https://www.atlassian.com/software/jira" title="Jira"><img src="https://img.icons8.com/color/50/000000/jira.png" alt="jira" /></a>
+   <!--  -->
+<a href="https://www.atlassian.com/software/confluence" title="Confluence" ><img width="48" height="48" src="https://img.icons8.com/color/48/confluence--v2.png" alt="confluence"/></a>
+   <!--  -->
+<a href="https://www.latex-project.org" title="Latex" ><img src="https://img.icons8.com/color/50/000000/latex.png" alt="latex" /></a>
+   <!--  -->
 
 
 
