@@ -71,10 +71,12 @@
 <p>
     <!-- mongoDB -->
 <a href="https://www.mongodb.com"  title="MongoDB" ><img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="mongodb" /></a>
-    <!-- oracle sql -->
-<a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/" title="Oracle SQL" ><img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712345863/personal-data/ami8m0ldozibr0vs8ixv.png" alt="oracle-sql" width="48" height="48" /></a>
+    <!-- mongoose -->
+<a href="https://mongoosejs.com/docs/guide.html"  title="mongoose"><img width="48" height="48" src="https://img.icons8.com/color/48/mongoose.png" alt="mongoose"/></a>
     <!-- mysql -->
 <a href="https://www.mysql.com/" title="My SQL" ><img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712346367/personal-data/dsjknkg9hdemhg3p6j6w.png" width="48" height="48" alt="my-sql" /></a>
+    <!-- oracle sql -->
+<a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/" title="Oracle SQL" ><img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712345863/personal-data/ami8m0ldozibr0vs8ixv.png" alt="oracle-sql" width="48" height="48" /></a>
 </p>
 
 ### State Management:
@@ -97,7 +99,9 @@
     <!-- docker -->
 <a href="https://www.docker.com/"  title="Docker" ><img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/></a>
     <!-- firebase -->
+<!--
 <a href="https://firebase.google.com"  title="Firebase" ><img src="https://img.icons8.com/color/50/000000/google-firebase-console.png" alt="firebase" /></a>
+-->
 </p>
 
 ### Others:
