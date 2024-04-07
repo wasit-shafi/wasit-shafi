@@ -24,9 +24,6 @@
     <img alt="__reload-browser-once-more-2-view-stats__" src="https://github-readme-stats-wasit-shafi.vercel.app/api/top-langs/?username=wasit-shafi&count_private=true&show_icons=true&hide_border=true&theme=onedark&langs_count=10&layout=compact"/>
 </div>
 -->
-
-<img src="https://streak-stats.demolab.com?user=wasit-shafi&date_format=j%20M%5B%20Y%5D&card_width=450" alt="stats" />
-
 <!-- https://icons8.com/icons -->
 
 ### Programming Languages
