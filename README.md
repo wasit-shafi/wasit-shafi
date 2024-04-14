@@ -39,10 +39,10 @@
     <!-- angular -->
 <a href="https://angular.dev/" title="Angular" ><img width="40" height="40" src="https://angular.dev/assets/icons/favicon-32x32.png" alt="angular"/></a>
     <!-- react -->
-<a href="https://reactjs.org/" title="ReactJS" ><img width="40" height="40" src="https://reactjs.org/favicon.ico" alt="react" /></a>
+<a href="https://reactjs.org/" title="ReactJS" ><img width="40" height="40" src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1713079490/personal-data/xmemfk6fqajw9mbs7agn.svg" alt="react" /></a>
     <!-- tailwind css -->
 <a href="https://tailwindcss.com/" title="Tailwind CSS" ><img width="40" height="40" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/></a>
-<!-- bootstrap -->
+    <!-- bootstrap -->
 <a href="https://getbootstrap.com/" title="Bootstrap" ><img width="40" height="40" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/></a>
     <!-- html5 -->
 <a href="https://en.wikipedia.org/wiki/HTML" title="HTML" ><img src="https://img.icons8.com/color/40/000000/html-5.png" alt="HTML" /></a>
