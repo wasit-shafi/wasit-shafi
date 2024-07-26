@@ -103,7 +103,9 @@
 <a href="https://socket.io/" title="socket.io"><img width="40" height="40" src="https://socket.io/images/favicon.png" alt="socket.io"/></a>
     <!-- Web Animation API -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API" title="Web Animation API"><img width="40" height="40" src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712355381/personal-data/ipzvxaa2fmoljhhttqcl.png" alt="web-animation-api"/></a>    
-    <!-- webpack -->
+    <!-- json web tokens -->
+<a href="https://jwt.io/" title="json web tokens"><img width="70" height="30" src="http://jwt.io/img/logo-asset.svg" alt="jwt"/></a>
+    <!-- web pack -->
 <!--
 <a href="https://webpack.js.org" title="WebPack"><img src="https://img.icons8.com/color/40/000000/webpack.png"  alt="webpack" /></a>
 -->
