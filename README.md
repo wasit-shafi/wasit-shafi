@@ -111,12 +111,18 @@
 -->
 </p>
 
-
+### Github Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasit-shafi&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wasit-shafi&theme=2077&exclude=Jupyter%20Notebook,c,c%2B%2B)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wasit-shafi&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wasit-shafi&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wasit-shafi&theme=2077&utcOffset=5.30)
+<br />
 ### Connect with me
 
 <a href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="wasitshafi700@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/wasit-shafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasit-shafi"/></a>
 <br />
 
-<p align="center"><b>Thanks for your time!</b></p>
+<p align="center"><b>Thanks for your time</b></p>
 <hr/>
