@@ -37,6 +37,8 @@
 <p>
     <!-- angular -->
 <a href="https://angular.dev/" title="Angular" ><img width="40" height="40" src="https://angular.dev/assets/icons/favicon-32x32.png" alt="angular"/></a>
+    <!-- RxJs -->
+<a href="https://rxjs.dev/" title="RxJs" ><img width="40" height="40" src="https://rxjs.dev/assets/images/favicons/favicon.ico" alt="RxJs"/></a>
     <!-- react -->
 <a href="https://reactjs.org/" title="ReactJS" ><img width="40" height="40" src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1713079490/personal-data/xmemfk6fqajw9mbs7agn.svg" alt="react" /></a>
     <!-- tailwind css -->
@@ -71,6 +73,9 @@
 <a href="https://www.mysql.com/" title="My SQL" ><img width="40" height="40" src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712346367/personal-data/dsjknkg9hdemhg3p6j6w.png" alt="my-sql" /></a>
     <!-- oracle sql -->
 <a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/" title="Oracle SQL" ><img width="40" height="40" src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712345863/personal-data/ami8m0ldozibr0vs8ixv.png" alt="oracle-sql" /></a>
+    <!-- Redis -->
+<a href="https://redis.io/" title="Redis" ><img width="40" height="40" src="https://redis.io/wp-content/themes/wpx/assets/images/favicons/favicon-32x32.png" alt="redis" /></a>
+    
 </p>
 
 ### State Management
