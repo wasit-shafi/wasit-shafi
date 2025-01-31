@@ -125,8 +125,8 @@
 <br />
 ### Connect with me
 
-<a href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="wasitshafi700@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/wasit-shafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasit-shafi"/></a>
+<a href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="wasitshafi700@gmail.com"/></a>
 <br />
 
 <p align="center"><b>Thanks for your time</b></p>
