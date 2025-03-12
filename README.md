@@ -5,16 +5,13 @@
 <a href="https://github.com/wasit-shafi?tab=repositories" title="https://github.com/wasit-shafi?tab=repositories"><img src="https://badges.strrl.dev/issues-and-prs/all/wasit-shafi" alt="All_Issues_And_PRs"/></a> 
 <a href="https://stackoverflow.com/users/10249156/wasit-shafi" title="https://stackoverflow.com/users/10249156/wasit-shafi"><img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
 </p>
-<h5>👨‍💻 Currently working as a Full Stack SDE with 3+ years of experience in developing & delivering high-quality web applications </h5>
+<h5>Full Stack Software Development Engineer with 3+ years of experience in developing & delivering high-quality web applications </h5>
 
 ### 📖 More About Me
 
-<!-- - 👨‍💻 &nbsp; ** -->
-<!-- - 🔍 &nbsp; ** -->
 - 🧐 &nbsp; Exploring **MEAN Stack**, **AWS** & **Adv. DSA**, Interested in **Back-End Technologies**/**Problem Solving**
 - 🎓 &nbsp; Master of Computer Applications
 - 💯 &nbsp; **Free  DevTip:** First solve the MELBORP then CODE!
-<!-- - 🌐 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1eOz6O41hRVIyxqi8sGNHxgQbtlunMi_N/view) || [Portfolio](https://wasit-shafi.github.io/) -->
 <!-- https://icons8.com/icons -->
 
 ### Programming Languages
@@ -90,16 +87,12 @@
 
 ### Cloud
 <p>
+    <!-- docker -->
+<a href="https://www.docker.com/" title="Docker" ><img width="40" height="40" src="https://img.icons8.com/fluency/40/docker.png" alt="docker"/></a>
     <!-- AWS -->
 <a href="https://aws.amazon.com" title="Amazon Web Services" ><img width="40" height="40" src="https://img.icons8.com/color/40/amazon-web-services.png" alt="AWS"/></a>
     <!-- nginx -->
 <a href="https://www.nginx.com/" title="Ngnix Web Server" ><img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-nginx-accelerates-content-and-application-delivery-improves-security-logo-color-tal-revivo.png" alt="Nginx"/></a>
-    <!-- docker -->
-<a href="https://www.docker.com/" title="Docker" ><img width="40" height="40" src="https://img.icons8.com/fluency/40/docker.png" alt="docker"/></a>
-    <!-- firebase -->
-<!--
-<a href="https://firebase.google.com"  title="Firebase" ><img src="https://img.icons8.com/color/40/000000/google-firebase-console.png" alt="firebase" /></a>
--->
 </p>
 
 ### Others
@@ -110,10 +103,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API" title="Web Animation API"><img width="40" height="40" src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712355381/personal-data/ipzvxaa2fmoljhhttqcl.png" alt="web-animation-api"/></a>    
     <!-- json web tokens -->
 <a href="https://jwt.io/" title="json web tokens"><img width="70" height="30" src="http://jwt.io/img/logo-asset.svg" alt="jwt"/></a>
-    <!-- web pack -->
-<!--
-<a href="https://webpack.js.org" title="WebPack"><img src="https://img.icons8.com/color/40/000000/webpack.png"  alt="webpack" /></a>
--->
 </p>
 
 ### Github Stats (Excluding Private Repos)
