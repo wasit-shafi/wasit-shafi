@@ -89,10 +89,12 @@
 <p>
     <!-- docker -->
 <a href="https://www.docker.com/" title="Docker" ><img width="40" height="40" src="https://img.icons8.com/fluency/40/docker.png" alt="docker"/></a>
+    <!-- K8S -->
+<a href="https://kubernetes.io" title="Kubernetes" ><img width="40" height="40" src="https://kubernetes.io/icons/favicon-64.png" alt="Kubernetes"/></a>
     <!-- AWS -->
 <a href="https://aws.amazon.com" title="Amazon Web Services" ><img width="40" height="40" src="https://img.icons8.com/color/40/amazon-web-services.png" alt="AWS"/></a>
-    <!-- nginx -->
-<a href="https://www.nginx.com/" title="Ngnix Web Server" ><img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-nginx-accelerates-content-and-application-delivery-improves-security-logo-color-tal-revivo.png" alt="Nginx"/></a>
+    <!-- NGNIX -->
+<a href="https://www.nginx.com/" title="NGINX Web Server" ><img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-nginx-accelerates-content-and-application-delivery-improves-security-logo-color-tal-revivo.png" alt="Nginx"/></a>
 </p>
 
 ### Others
@@ -100,7 +102,7 @@
     <!-- socket.io -->
 <a href="https://socket.io/" title="socket.io"><img width="40" height="40" src="https://socket.io/images/favicon.png" alt="socket.io"/></a>
     <!-- Web Animation API -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API" title="Web Animation API"><img width="40" height="40" src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712355381/personal-data/ipzvxaa2fmoljhhttqcl.png" alt="web-animation-api"/></a>    
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API" title="Web Animation API"><img width="40" height="40" src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712355381/personal-data/ipzvxaa2fmoljhhttqcl.png" alt="web-animation-API"/></a>    
     <!-- json web tokens -->
 <a href="https://jwt.io/" title="json web tokens"><img width="70" height="30" src="http://jwt.io/img/logo-asset.svg" alt="jwt"/></a>
 </p>
