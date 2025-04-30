@@ -5,7 +5,7 @@
 <a target="_blank" href="https://github.com/wasit-shafi?tab=repositories" title="https://github.com/wasit-shafi?tab=repositories"><img src="https://badges.strrl.dev/issues-and-prs/all/wasit-shafi" alt="All_Issues_And_PRs"/></a> 
 <a target="_blank" href="https://stackoverflow.com/users/10249156/wasit-shafi" title="https://stackoverflow.com/users/10249156/wasit-shafi"><img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
 </p>
-<h5>Full Stack Software Development Engineer with 3+ years of experience in developing & delivering high-quality web applications </h5>
+<h5>Full Stack Software Development Engineer with 3.7 years of experience in developing & delivering high-quality web applications </h5>
 
 ### 📖 More About Me
 
