@@ -11,11 +11,8 @@
 
 - 🧐 &nbsp; Exploring **MEAN Stack**, **AWS** & **Adv. DSA**, Interested in **Back-End Technologies**/**Problem Solving**
 - 🎓 &nbsp; Master of Computer Applications
-- ✅ &nbsp; **My Core Skills:** NodeJS, ExpressJS, TypeScript, MongoDB, Mongoose, Restful API, BullMQ, Redis, SQL, DOCKER, CICD/Github Actions, AWS, Web Sockets, Angular, NgRx, RxJs 
+- ✅ &nbsp; **My Core Skills:** NodeJS, ExpressJS, TypeScript, MongoDB, Mongoose, Restful API Development, BullMQ, Redis, SQL, DOCKER, CICD/Github Actions, AWS, Web Sockets, Angular, NgRx, RxJs 
 - 💯 &nbsp; **Free  DevTip:** First solve the PROBLEM then CODE!
-
-- Core Backend Skills:
-Problem-Solving, Data Structures & Algorithms, .Net Core, MS SQL Server, C#, Web APIs, Microservices, ASP.NET MVC, RabbitMQ, SignalR, RESTful APIs, OOPS, LINQ, EF Core, Firebase, MongoDB
 
 ### Connect with me
 
