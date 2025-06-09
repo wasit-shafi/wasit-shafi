@@ -5,13 +5,23 @@
 <a target="_blank" href="https://github.com/wasit-shafi?tab=repositories" title="https://github.com/wasit-shafi?tab=repositories"><img src="https://badges.strrl.dev/issues-and-prs/all/wasit-shafi" alt="All_Issues_And_PRs"/></a> 
 <a target="_blank" href="https://stackoverflow.com/users/10249156/wasit-shafi" title="https://stackoverflow.com/users/10249156/wasit-shafi"><img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
 </p>
-<h5>Full Stack Software Development Engineer with 3.7 years of experience in developing & delivering high-quality web applications </h5>
+<h5>Backend/Full-Stack Software Development Engineer with 3.7 years of experience in developing & delivering high-quality web applications </h5>
 
 ### 📖 More About Me
 
 - 🧐 &nbsp; Exploring **MEAN Stack**, **AWS** & **Adv. DSA**, Interested in **Back-End Technologies**/**Problem Solving**
 - 🎓 &nbsp; Master of Computer Applications
+- ✅ &nbsp; **My Core Skills:** NodeJS, ExpressJS, TypeScript, MongoDB, Mongoose, Restful API, BullMQ, Redis, SQL, DOCKER, CICD/Github Actions, AWS, Web Sockets, Angular, NgRx, RxJs 
 - 💯 &nbsp; **Free  DevTip:** First solve the PROBLEM then CODE!
+
+- Core Backend Skills:
+Problem-Solving, Data Structures & Algorithms, .Net Core, MS SQL Server, C#, Web APIs, Microservices, ASP.NET MVC, RabbitMQ, SignalR, RESTful APIs, OOPS, LINQ, EF Core, Firebase, MongoDB
+
+### Connect with me
+
+<a target="_blank" href="https://www.linkedin.com/in/wasit-shafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasit-shafi"/></a>
+<a target="_blank" href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="wasitshafi700@gmail.com"/></a>
+<br />
 <!-- https://icons8.com/icons -->
 
 ### Programming Languages
@@ -111,13 +121,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasit-shafi&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wasit-shafi&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wasit-shafi&theme=2077&utcOffset=5.30)
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wasit-shafi&theme=2077&exclude=Jupyter%20Notebook,c,c%2B%2B)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wasit-shafi&theme=2077)
-<br />
-### Connect with me
+-->
 
-<a target="_blank" href="https://www.linkedin.com/in/wasit-shafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasit-shafi"/></a>
-<a target="_blank" href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="wasitshafi700@gmail.com"/></a>
 <br />
 
 <p align="center"><b>Thanks for your time</b></p>
