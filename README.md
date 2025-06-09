@@ -11,7 +11,7 @@
 
 - 🧐 &nbsp; Exploring **MEAN Stack**, **AWS** & **Adv. DSA**, Interested in **Back-End Technologies**/**Problem Solving**
 - 🎓 &nbsp; Master of Computer Applications
-- 💯 &nbsp; **Free  DevTip:** First solve the MELBORP then CODE!
+- 💯 &nbsp; **Free  DevTip:** First solve the PROBLEM then CODE!
 <!-- https://icons8.com/icons -->
 
 ### Programming Languages
