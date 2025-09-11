@@ -5,12 +5,12 @@
 <a target="_blank" href="https://github.com/wasit-shafi?tab=repositories" title="https://github.com/wasit-shafi?tab=repositories"><img src="https://badges.strrl.dev/issues-and-prs/all/wasit-shafi" alt="All_Issues_And_PRs"/></a> 
 <a target="_blank" href="https://stackoverflow.com/users/10249156/wasit-shafi" title="https://stackoverflow.com/users/10249156/wasit-shafi"><img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
 </p>
-<h5>Backend/Full-Stack Software Development Engineer with 3.7 years of experience in developing & delivering high-quality web applications </h5>
+<h5>Full-Stack Software Engineer with 4+ years of experience in developing & delivering high-quality web applications</h5>
 
 ### 📖 More About Me
 
-- 🧐 &nbsp; Exploring **MEAN Stack**, **AWS** & **Adv. DSA**, Interested in **Back-End Technologies**/**Problem Solving**
-- 🎓 &nbsp; Master of Computer Applications
+- 🧐 &nbsp; Exploring **MEAN/MERN Tech. Stack**, Microservices architecture,  **AWS** & **Adv. DSA**, Interested **Back-End Technologies**/**Problem Solving**
+- 🎓 &nbsp; Completed Bachelor of Computer Applications & Master of Computer Applications
 - ✅ &nbsp; **Core Skills:** NodeJS, ExpressJS, TypeScript, MongoDB, Mongoose, Restful API Development, BullMQ, Redis, SQL, Docker, CICD, Github Actions, AWS, Web Sockets, Angular, NgRx, RxJs 
 - 💯 &nbsp; **Free  DevTip:** First solve the PROBLEM then CODE!
 
