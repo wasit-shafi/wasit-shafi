@@ -66,7 +66,9 @@
     <!-- node.js -->
 <a target="_blank" href="https://nodejs.org/en" title="NodeJS" ><img src="https://img.icons8.com/fluency/40/000000/node-js.png" alt="node-js" /></a>
     <!-- express.js -->
-<a target="_blank" href="https://expressjs.com/"  title="ExpressJS" ><img width="40" height="40" src="https://img.icons8.com/fluency/40/express-js.png" alt="express-js"/></a>
+<a target="_blank" href="https://expressjs.com"  title="ExpressJS" ><img width="40" height="40" src="https://img.icons8.com/fluency/40/express-js.png" alt="express-js"/></a>
+    <!-- nest.js -->
+<a target="_blank" href="https://nestjs.com"  title="NestJS" ><img width="40" height="40" src="https://nestjs.com/favicon.fe097249.ico" alt="nest-js"/></a>
     <!-- BullMQ -->
 <a target="_blank" href="https://bullmq.io"  title="BullMQ" ><img width="40" height="40" src="https://bullmq.io/images/favicon.ico" alt="BullMQ"/></a>
     <!-- RabbitMQ -->
