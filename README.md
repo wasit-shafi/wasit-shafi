@@ -11,7 +11,7 @@
 
 - 🧐 &nbsp; Exploring **MEAN/MERN Tech Stack**, **Microservices architecture**,  **AWS** & **Adv. DSA**, Interested **Back-End Technologies**/**Problem Solving**
 - 🎓 &nbsp; Completed Bachelor of Computer Applications & Master of Computer Applications
-- ✅ &nbsp; **Core Skills:** NodeJS, ExpressJS, TypeScript, MongoDB, Mongoose, Restful API Development, BullMQ, Redis, SQL, Docker, CICD, Github Actions, AWS, Web Sockets, Angular, React, NgRx, RxJs 
+- ✅ &nbsp; **Core Skills:** NodeJS, ExpressJS, TypeScript, MongoDB, Mongoose, Restful API Development, BullMQ, Redis, SQL, Docker, CICD, Github Actions, AWS, Nest.js, Web Sockets, Angular, React, NgRx, RxJs 
 - 💯 &nbsp; **Free  DevTip:** First solve the PROBLEM then CODE!
 
 ### Connect with me
