@@ -95,7 +95,7 @@
 ### State Management
 <p>
     <!-- NgRx -->
-<a target="_blank" href="https://ngrx.io/" title="NgRx" ><img width="40" height="40" src="https://ngrx.io/assets/images/badge.svg" alt="NgRx" /></a>
+<a target="_blank" href="https://ngrx.io/" title="NgRx" ><img width="40" height="40" src="https://ngrx.io/ngrx-logo.svg" alt="NgRx" /></a>
     <!-- mobX-state-tree -->
 <a target="_blank" href="https://mobx-state-tree.js.org"  title="MobX-State-Tree"><img width="40" height="40" src="https://mobx-state-tree.js.org/img/favicon.ico" alt="MST"/></a>
     <!-- redux -->
