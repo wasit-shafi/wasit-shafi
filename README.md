@@ -37,30 +37,6 @@
 <a target="_blank" href="https://www.python.org" title="Python" ><img src="https://img.icons8.com/color/40/000000/python.png" alt="python" /></a>
 </p>
 
-### Frontend Technologies
-<p>
-    <!-- angular -->
-<a target="_blank" href="https://angular.dev/" title="Angular" ><img width="40" height="40" src="https://angular.dev/assets/icons/favicon-32x32.png" alt="angular"/></a>
-    <!-- RxJs -->
-<a target="_blank" href="https://rxjs.dev/" title="RxJs" ><img width="40" height="40" src="https://rxjs.dev/assets/images/favicons/favicon.ico" alt="RxJs"/></a>
-    <!-- react -->
-<a target="_blank" href="https://reactjs.org/" title="ReactJS" ><img width="40" height="40" src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1713079490/personal-data/xmemfk6fqajw9mbs7agn.svg" alt="react" /></a>
-    <!-- tailwind css -->
-<a target="_blank" href="https://tailwindcss.com/" title="Tailwind CSS" ><img width="40" height="40" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/></a>
-    <!-- bootstrap -->
-<a target="_blank" href="https://getbootstrap.com/" title="Bootstrap" ><img width="40" height="40" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/></a>
-    <!-- daisyUI -->
-<a target="_blank" href="https://daisyui.com" title="DaisyUI" ><img width="40" height="40" src="https://img.daisyui.com/images/daisyui/mark.svg" alt="DaisyUI"/></a>
-    <!-- html5 -->
-<a target="_blank" href="https://en.wikipedia.org/wiki/HTML" title="HTML" ><img src="https://img.icons8.com/color/40/000000/html-5.png" alt="HTML" /></a>
-    <!-- CSS -->
-<a target="_blank" href="https://en.wikipedia.org/wiki/CSS" title="CSS" ><img src="https://img.icons8.com/color/40/000000/css3.png" alt="css3" /></a>
-    <!-- scss -->
-<a target="_blank" href="https://sass-lang.com" title="SCSS" ><img src="https://img.icons8.com/color/40/000000/sass.png" alt="scss" /></a>
-    <!-- electron.js -->
-<a target="_blank" href="https://www.electronjs.org" title="ElectronJS" ><img width="40" height="40" src="https://www.electronjs.org/assets/img/logo.svg" alt="electron-js"/></a>
-</p>
-
 ### Backend Technologies
 <p>
     <!-- node.js -->
@@ -89,7 +65,30 @@
 <a target="_blank" href="https://www.postgresql.org/" title="PostgreSQL" ><img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="PostgreSQL" /></a>
     <!-- Redis -->
 <a target="_blank" href="https://redis.io/" title="Redis" ><img width="40" height="40" src="https://redis.io/wp-content/themes/wpx/assets/images/favicons/favicon-32x32.png" alt="redis" /></a>
-    
+</p>
+
+### Frontend Technologies
+<p>
+    <!-- angular -->
+<a target="_blank" href="https://angular.dev/" title="Angular" ><img width="40" height="40" src="https://angular.dev/assets/icons/favicon-32x32.png" alt="angular"/></a>
+    <!-- RxJs -->
+<a target="_blank" href="https://rxjs.dev/" title="RxJs" ><img width="40" height="40" src="https://rxjs.dev/assets/images/favicons/favicon.ico" alt="RxJs"/></a>
+    <!-- react -->
+<a target="_blank" href="https://reactjs.org/" title="ReactJS" ><img width="40" height="40" src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1713079490/personal-data/xmemfk6fqajw9mbs7agn.svg" alt="react" /></a>
+    <!-- tailwind css -->
+<a target="_blank" href="https://tailwindcss.com/" title="Tailwind CSS" ><img width="40" height="40" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/></a>
+    <!-- bootstrap -->
+<a target="_blank" href="https://getbootstrap.com/" title="Bootstrap" ><img width="40" height="40" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/></a>
+    <!-- daisyUI -->
+<a target="_blank" href="https://daisyui.com" title="DaisyUI" ><img width="40" height="40" src="https://img.daisyui.com/images/daisyui/mark.svg" alt="DaisyUI"/></a>
+    <!-- html5 -->
+<a target="_blank" href="https://en.wikipedia.org/wiki/HTML" title="HTML" ><img src="https://img.icons8.com/color/40/000000/html-5.png" alt="HTML" /></a>
+    <!-- CSS -->
+<a target="_blank" href="https://en.wikipedia.org/wiki/CSS" title="CSS" ><img src="https://img.icons8.com/color/40/000000/css3.png" alt="css3" /></a>
+    <!-- scss -->
+<a target="_blank" href="https://sass-lang.com" title="SCSS" ><img src="https://img.icons8.com/color/40/000000/sass.png" alt="scss" /></a>
+    <!-- electron.js -->
+<a target="_blank" href="https://www.electronjs.org" title="ElectronJS" ><img width="40" height="40" src="https://www.electronjs.org/assets/img/logo.svg" alt="electron-js"/></a>
 </p>
 
 ### State Management
