@@ -5,11 +5,11 @@
 <a target="_blank" href="https://github.com/wasit-shafi?tab=repositories" title="https://github.com/wasit-shafi?tab=repositories"><img src="https://badges.strrl.dev/issues-and-prs/all/wasit-shafi" alt="All_Issues_And_PRs"/></a> 
 <a target="_blank" href="https://stackoverflow.com/users/10249156/wasit-shafi" title="https://stackoverflow.com/users/10249156/wasit-shafi"><img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
 </p>
-<h5>Full-Stack Software Engineer with 4 years of experience in developing & delivering high-quality web applications</h5>
+<h5>Software Engineer with 4+ years of experience in developing & delivering high-quality web applications</h5>
 
 ### 📖 More About Me
 
-- 🧐 &nbsp; Exploring **MEAN/MERN Tech Stack**, **Microservices architecture**,  **AWS** & **Adv. DSA**, Interested **Back-End Technologies**/**Problem Solving**
+<!--- 🧐 &nbsp; Exploring **MEAN/MERN Tech Stack**, **Microservices architecture**,  **AWS** & **Adv. DSA**, Interested **Back-End Technologies**/**Problem Solving** -->
 - 🎓 &nbsp; Completed Bachelor of Computer Applications & Master of Computer Applications
 - ✅ &nbsp; **Core Skills:** NodeJS, ExpressJS, TypeScript, MongoDB, Mongoose, Restful API Development, BullMQ, Redis, SQL, Docker, CICD, Github Actions, AWS, Nest.js, Web Sockets, Angular, React, NgRx, RxJs 
 - 💯 &nbsp; **Free  DevTip:** First solve the PROBLEM then CODE!
@@ -30,11 +30,11 @@
     <!-- java -->
 <a target="_blank" href="https://docs.oracle.com/javase/8" title="Java" ><img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png" alt="java" /></a>
     <!-- cpp -->
-<a target="_blank" href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++" ><img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png" alt="cpp" /></a>
+<!-- <a target="_blank" href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++" ><img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png" alt="cpp" /></a> -->
     <!-- c -->
-<a target="_blank" href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C" ><img src="https://img.icons8.com/color/40/000000/c-programming.png" alt="c" /></a>
+<!-- <a target="_blank" href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C" ><img src="https://img.icons8.com/color/40/000000/c-programming.png" alt="c" /></a> -->
     <!-- python -->
-<a target="_blank" href="https://www.python.org" title="Python" ><img src="https://img.icons8.com/color/40/000000/python.png" alt="python" /></a>
+<!-- <a target="_blank" href="https://www.python.org" title="Python" ><img src="https://img.icons8.com/color/40/000000/python.png" alt="python" /></a> -->
 </p>
 
 ### Backend Technologies
@@ -44,11 +44,11 @@
     <!-- express.js -->
 <a target="_blank" href="https://expressjs.com"  title="ExpressJS" ><img width="40" height="40" src="https://img.icons8.com/fluency/40/express-js.png" alt="express-js"/></a>
     <!-- nest.js -->
-<a target="_blank" href="https://nestjs.com"  title="NestJS" ><img width="40" height="40" src="https://nestjs.com/favicon.fe097249.ico" alt="nest-js"/></a>
+<!-- <a target="_blank" href="https://nestjs.com"  title="NestJS" ><img width="40" height="40" src="https://nestjs.com/favicon.fe097249.ico" alt="nest-js"/></a> -->
     <!-- BullMQ -->
-<a target="_blank" href="https://bullmq.io"  title="BullMQ" ><img width="40" height="40" src="https://bullmq.io/images/favicon.ico" alt="BullMQ"/></a>
+<!-- <a target="_blank" href="https://bullmq.io"  title="BullMQ" ><img width="40" height="40" src="https://bullmq.io/images/favicon.ico" alt="BullMQ"/></a> -->
     <!-- RabbitMQ -->
-<a target="_blank" href="https://www.rabbitmq.com"  title="RabbitMQ" ><img width="40" height="40" src="https://www.rabbitmq.com/img/rabbitmq-logo.svg" alt="RabbitMQ"/></a>
+<!-- <a target="_blank" href="https://www.rabbitmq.com"  title="RabbitMQ" ><img width="40" height="40" src="https://www.rabbitmq.com/img/rabbitmq-logo.svg" alt="RabbitMQ"/></a> -->
 </p>
 
 ### Databases & ODM
@@ -58,13 +58,13 @@
     <!-- mongoose -->
 <a target="_blank" href="https://mongoosejs.com/docs/guide.html"  title="mongoose"><img width="40" height="40" src="https://img.icons8.com/color/48/mongoose.png" alt="mongoose"/></a>
     <!-- mysql -->
-<a target="_blank" href="https://www.mysql.com/" title="My SQL" ><img width="40" height="40" src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712346367/personal-data/dsjknkg9hdemhg3p6j6w.png" alt="my-sql" /></a>
+<!-- <a target="_blank" href="https://www.mysql.com/" title="My SQL" ><img width="40" height="40" src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712346367/personal-data/dsjknkg9hdemhg3p6j6w.png" alt="my-sql" /></a> -->
     <!-- oracle sql -->
-<a target="_blank" href="https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/" title="Oracle SQL" ><img width="40" height="40" src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712345863/personal-data/ami8m0ldozibr0vs8ixv.png" alt="oracle-sql" /></a>
+<!-- <a target="_blank" href="https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/" title="Oracle SQL" ><img width="40" height="40" src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712345863/personal-data/ami8m0ldozibr0vs8ixv.png" alt="oracle-sql" /></a> -->
     <!-- PostgreSQL -->
-<a target="_blank" href="https://www.postgresql.org/" title="PostgreSQL" ><img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="PostgreSQL" /></a>
+<!-- <a target="_blank" href="https://www.postgresql.org/" title="PostgreSQL" ><img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="PostgreSQL" /></a> -->
     <!-- Redis -->
-<a target="_blank" href="https://redis.io/" title="Redis" ><img width="40" height="40" src="https://redis.io/wp-content/themes/wpx/assets/images/favicons/favicon-32x32.png" alt="redis" /></a>
+<!-- <a target="_blank" href="https://redis.io/" title="Redis" ><img width="40" height="40" src="https://redis.io/wp-content/themes/wpx/assets/images/favicons/favicon-32x32.png" alt="redis" /></a> -->
 </p>
 
 ### Frontend Technologies
@@ -72,56 +72,49 @@
     <!-- angular -->
 <a target="_blank" href="https://angular.dev/" title="Angular" ><img width="40" height="40" src="https://angular.dev/assets/icons/favicon-32x32.png" alt="angular"/></a>
     <!-- RxJs -->
-<a target="_blank" href="https://rxjs.dev/" title="RxJs" ><img width="40" height="40" src="https://rxjs.dev/assets/images/favicons/favicon.ico" alt="RxJs"/></a>
+<!-- <a target="_blank" href="https://rxjs.dev/" title="RxJs" ><img width="40" height="40" src="https://rxjs.dev/assets/images/favicons/favicon.ico" alt="RxJs"/></a> -->
     <!-- react -->
 <a target="_blank" href="https://reactjs.org/" title="ReactJS" ><img width="40" height="40" src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1713079490/personal-data/xmemfk6fqajw9mbs7agn.svg" alt="react" /></a>
     <!-- tailwind css -->
-<a target="_blank" href="https://tailwindcss.com/" title="Tailwind CSS" ><img width="40" height="40" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/></a>
+<!-- <a target="_blank" href="https://tailwindcss.com/" title="Tailwind CSS" ><img width="40" height="40" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/></a> -->
     <!-- bootstrap -->
-<a target="_blank" href="https://getbootstrap.com/" title="Bootstrap" ><img width="40" height="40" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/></a>
+<!-- <a target="_blank" href="https://getbootstrap.com/" title="Bootstrap" ><img width="40" height="40" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/></a> -->
     <!-- daisyUI -->
-<a target="_blank" href="https://daisyui.com" title="DaisyUI" ><img width="40" height="40" src="https://img.daisyui.com/images/daisyui/mark.svg" alt="DaisyUI"/></a>
+<!-- <a target="_blank" href="https://daisyui.com" title="DaisyUI" ><img width="40" height="40" src="https://img.daisyui.com/images/daisyui/mark.svg" alt="DaisyUI"/></a> -->
     <!-- html5 -->
-<a target="_blank" href="https://en.wikipedia.org/wiki/HTML" title="HTML" ><img src="https://img.icons8.com/color/40/000000/html-5.png" alt="HTML" /></a>
+<!-- <a target="_blank" href="https://en.wikipedia.org/wiki/HTML" title="HTML" ><img src="https://img.icons8.com/color/40/000000/html-5.png" alt="HTML" /></a> -->
     <!-- CSS -->
-<a target="_blank" href="https://en.wikipedia.org/wiki/CSS" title="CSS" ><img src="https://img.icons8.com/color/40/000000/css3.png" alt="css3" /></a>
+<!-- <a target="_blank" href="https://en.wikipedia.org/wiki/CSS" title="CSS" ><img src="https://img.icons8.com/color/40/000000/css3.png" alt="css3" /></a> -->
     <!-- scss -->
-<a target="_blank" href="https://sass-lang.com" title="SCSS" ><img src="https://img.icons8.com/color/40/000000/sass.png" alt="scss" /></a>
+<!-- <a target="_blank" href="https://sass-lang.com" title="SCSS" ><img src="https://img.icons8.com/color/40/000000/sass.png" alt="scss" /></a> -->
     <!-- electron.js -->
-<a target="_blank" href="https://www.electronjs.org" title="ElectronJS" ><img width="40" height="40" src="https://www.electronjs.org/assets/img/logo.svg" alt="electron-js"/></a>
+<!-- <a target="_blank" href="https://www.electronjs.org" title="ElectronJS" ><img width="40" height="40" src="https://www.electronjs.org/assets/img/logo.svg" alt="electron-js"/></a> -->
 </p>
 
-### State Management
-<p>
-    <!-- NgRx -->
-<a target="_blank" href="https://ngrx.io/" title="NgRx" ><img width="40" height="40" src="https://ngrx.io/ngrx-logo.svg" alt="NgRx" /></a>
-    <!-- mobX-state-tree -->
-<a target="_blank" href="https://mobx-state-tree.js.org"  title="MobX-State-Tree"><img width="40" height="40" src="https://mobx-state-tree.js.org/img/favicon.ico" alt="MST"/></a>
-    <!-- redux -->
-<a target="_blank" href="https://redux.js.org" title="Redux" ><img src="https://img.icons8.com/color/40/000000/redux.png" alt="Redux"/></a>
-</p>
+<!-- <p> -->
+<!-- <a target="_blank" href="https://ngrx.io/" title="NgRx" ><img width="40" height="40" src="https://ngrx.io/ngrx-logo.svg" alt="NgRx" /></a> -->
+<!-- <a target="_blank" href="https://mobx-state-tree.js.org"  title="MobX-State-Tree"><img width="40" height="40" src="https://mobx-state-tree.js.org/img/favicon.ico" alt="MST"/></a> -->
+<!-- <a target="_blank" href="https://redux.js.org" title="Redux" ><img src="https://img.icons8.com/color/40/000000/redux.png" alt="Redux"/></a> -->
+<!-- </p> -->
 
 ### Cloud
 <p>
     <!-- docker -->
 <a target="_blank" href="https://www.docker.com/" title="Docker" ><img width="40" height="40" src="https://img.icons8.com/fluency/40/docker.png" alt="docker"/></a>
     <!-- K8S -->
-<a target="_blank" href="https://kubernetes.io" title="Kubernetes" ><img width="40" height="40" src="https://kubernetes.io/icons/favicon-64.png" alt="Kubernetes"/></a>
+<!-- <a target="_blank" href="https://kubernetes.io" title="Kubernetes" ><img width="40" height="40" src="https://kubernetes.io/icons/favicon-64.png" alt="Kubernetes"/></a> -->
     <!-- AWS -->
 <a target="_blank" href="https://aws.amazon.com" title="Amazon Web Services" ><img width="40" height="40" src="https://img.icons8.com/color/40/amazon-web-services.png" alt="AWS"/></a>
     <!-- NGNIX -->
-<a target="_blank" href="https://www.nginx.com/" title="NGINX Web Server" ><img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-nginx-accelerates-content-and-application-delivery-improves-security-logo-color-tal-revivo.png" alt="Nginx"/></a>
+<!-- <a target="_blank" href="https://www.nginx.com/" title="NGINX Web Server" ><img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-nginx-accelerates-content-and-application-delivery-improves-security-logo-color-tal-revivo.png" alt="Nginx"/></a> -->
 </p>
 
-### Others
-<p>
-    <!-- socket.io -->
-<a target="_blank" href="https://socket.io/" title="socket.io"><img width="40" height="40" src="https://socket.io/images/favicon.png" alt="socket.io"/></a>
-    <!-- Web Animation API -->
-<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API" title="Web Animation API"><img width="40" height="40" src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712355381/personal-data/ipzvxaa2fmoljhhttqcl.png" alt="web-animation-API"/></a>    
-    <!-- json web tokens -->
-<a target="_blank" href="https://jwt.io/" title="json web tokens"><img width="70" height="30" src="http://jwt.io/img/logo-asset.svg" alt="jwt"/></a>
-</p>
+<!-- ### Others -->
+<!-- <p> -->
+<!-- <a target="_blank" href="https://socket.io/" title="socket.io"><img width="40" height="40" src="https://socket.io/images/favicon.png" alt="socket.io"/></a> -->
+<!-- <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API" title="Web Animation API"><img width="40" height="40" src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712355381/personal-data/ipzvxaa2fmoljhhttqcl.png" alt="web-animation-API"/></a>     -->
+<!-- <a target="_blank" href="https://jwt.io/" title="json web tokens"><img width="70" height="30" src="http://jwt.io/img/logo-asset.svg" alt="jwt"/></a> -->
+<!-- </p> -->
 
 ### Github Stats (Excluding Private Repos)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasit-shafi&theme=2077)
