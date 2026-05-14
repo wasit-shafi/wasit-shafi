@@ -14,11 +14,13 @@
 - ✅ &nbsp; **Core Skills:** NodeJS, ExpressJS, TypeScript, MongoDB, Mongoose, Restful API Development, BullMQ, Redis, SQL, Docker, CICD, Github Actions, AWS, Nest.js, Web Sockets, Angular, React, NgRx, RxJs 
 - 💯 &nbsp; **Free  DevTip:** First solve the PROBLEM then CODE!
 
+<!--
 ### Connect with me
 
 <a target="_blank" href="https://www.linkedin.com/in/wasit-shafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasit-shafi"/></a>
 <a target="_blank" href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="wasitshafi700@gmail.com"/></a>
 <br />
+-->
 <!-- https://icons8.com/icons -->
 
 ### Programming Languages
