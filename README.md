@@ -24,53 +24,57 @@
 <a target="_blank" href="https://www.typescriptlang.org" title="TypeScript"><img src="https://img.icons8.com/color/40/000000/typescript.png" alt="typescript"/></a>
     <!-- javascript -->
 <a target="_blank" href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" ><img src="https://img.icons8.com/color/40/000000/javascript.png" alt="javascript"/></a>
-    <!-- java -->
-<a target="_blank" href="https://docs.oracle.com/javase/8" title="Java" ><img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png" alt="java" /></a>
     <!-- node.js -->
 <a target="_blank" href="https://nodejs.org/en" title="NodeJS" ><img src="https://img.icons8.com/fluency/40/000000/node-js.png" alt="node-js" /></a>
     <!-- express.js -->
 <a target="_blank" href="https://expressjs.com"  title="ExpressJS" ><img src="https://img.icons8.com/fluency/40/express-js.png" alt="express-js"/></a>
-    <!-- nest.js -->
-<a target="_blank" href="https://nestjs.com"  title="NestJS" ><img src="https://nestjs.com/favicon.fe097249.ico" alt="nest-js"/></a>
     <!-- BullMQ -->
 <a target="_blank" href="https://bullmq.io"  title="BullMQ" ><img src="https://bullmq.io/images/favicon.ico" alt="BullMQ"/></a>
-        <!-- mongoDB -->
+    <!-- mongoDB -->
 <a target="_blank" href="https://www.mongodb.com"  title="MongoDB" ><img src="https://img.icons8.com/color/60/000000/mongodb.png" alt="mongodb" /></a>
     <!-- mongoose -->
 <a target="_blank" href="https://mongoosejs.com/docs/guide.html"  title="mongoose"><img src="https://img.icons8.com/color/48/mongoose.png" alt="mongoose"/></a>
-     <!-- PostgreSQL -->
-<a target="_blank" href="https://www.postgresql.org/" title="PostgreSQL" ><img  src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="PostgreSQL" /></a>
-    <!-- Redis -->
-<a target="_blank" href="https://redis.io/" title="Redis" ><img  src="https://redis.io/wp-content/themes/wpx/assets/images/favicons/favicon-32x32.png" alt="redis" /></a>
-    <!-- angular -->
+    <!-- Angular -->
 <a target="_blank" href="https://angular.dev/" title="Angular" ><img  src="https://angular.dev/assets/icons/favicon-32x32.png" alt="angular"/></a>
     <!-- RxJs -->
 <a target="_blank" href="https://rxjs.dev/" title="RxJs" ><img width="60" src="https://rxjs.dev/assets/images/favicons/favicon.ico" alt="RxJs"/></a>
-    <!-- react -->
+    <!-- React -->
 <a target="_blank" href="https://reactjs.org/" title="ReactJS" ><img  width="60" src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1713079490/personal-data/xmemfk6fqajw9mbs7agn.svg" alt="react" /></a>
-    <!-- tailwind css -->
+    <!-- Tailwind css -->
 <a target="_blank" href="https://tailwindcss.com/" title="Tailwind CSS" ><img  src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/></a>
-    <!-- bootstrap -->
+    <!-- Bootstrap -->
 <a target="_blank" href="https://getbootstrap.com/" title="Bootstrap" ><img  src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/></a>
-    <!-- daisyUI -->
+    <!-- DaisyUI -->
 <a target="_blank" href="https://daisyui.com" title="DaisyUI" ><img width="60" src="https://img.daisyui.com/images/daisyui/mark.svg" alt="DaisyUI"/></a>
-    <!-- html5 -->
+    <!-- HTML5 -->
 <a target="_blank" href="https://en.wikipedia.org/wiki/HTML" title="HTML" ><img src="https://img.icons8.com/color/60/000000/html-5.png" alt="HTML" /></a>
     <!-- CSS -->
 <a target="_blank" href="https://en.wikipedia.org/wiki/CSS" title="CSS" ><img src="https://img.icons8.com/color/60/000000/css3.png" alt="css3" /></a>
-    <!-- scss -->
+    <!-- SCSS -->
 <a target="_blank" href="https://sass-lang.com" title="SCSS" ><img src="https://img.icons8.com/color/46/000000/sass.png" alt="scss" /></a>
-    <!-- docker -->
+    <!-- Docker -->
 <a target="_blank" href="https://www.docker.com/" title="Docker" ><img  src="https://img.icons8.com/fluency/60/docker.png" alt="docker"/></a>
     <!-- AWS -->
 <a target="_blank" href="https://aws.amazon.com" title="Amazon Web Services" ><img  src="https://img.icons8.com/color/60/amazon-web-services.png" alt="AWS"/></a>
+    <!-- nest.js -->
+<a target="_blank" href="https://nestjs.com"  title="NestJS" ><img src="https://nestjs.com/favicon.fe097249.ico" alt="nest-js"/></a>
+    <!-- MySQL -->
 <a target="_blank" href="https://www.mysql.com/" title="My SQL" ><img  src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712346367/personal-data/dsjknkg9hdemhg3p6j6w.png" alt="my-sql"/></a>
+    <!-- PostgreSQL -->
+<a target="_blank" href="https://www.postgresql.org/" title="PostgreSQL" ><img  src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="PostgreSQL" /></a>
+    <!-- Redis -->
+<a target="_blank" href="https://redis.io/" title="Redis" ><img  src="https://redis.io/wp-content/themes/wpx/assets/images/favicons/favicon-32x32.png" alt="redis" /></a>
+    <!-- NGRX -->
 <a target="_blank" href="https://ngrx.io/" title="NgRx" ><img width="60" src="https://ngrx.io/ngrx-logo.svg" alt="NgRx" /></a>
+    <!-- Redux -->
 <a target="_blank" href="https://redux.js.org" title="Redux" ><img src="https://img.icons8.com/color/60/000000/redux.png" alt="Redux"/></a>
+    <!-- Socker.io -->
 <a target="_blank" href="https://socket.io/" title="socket.io"><img width="60"  src="https://socket.io/images/favicon.png" alt="socket.io"/></a>
+    <!-- JWT -->
 <a target="_blank" href="https://jwt.io/" title="json web tokens"><img height="60" src="http://jwt.io/img/logo-asset.svg" alt="jwt"/></a>
-        <!-- K8S -->
+    <!-- K8S -->
 <!-- <a target="_blank" href="https://kubernetes.io" title="Kubernetes" ><img  src="https://kubernetes.io/icons/favicon-64.png" alt="Kubernetes"/></a> -->
+    <!-- RabbitMQ -->
 <!-- <a target="_blank" href="https://www.rabbitmq.com"  title="RabbitMQ" ><img src="https://www.rabbitmq.com/img/rabbitmq-logo.svg" alt="RabbitMQ"/></a> -->
     
 </p>
