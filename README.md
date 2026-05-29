@@ -1,4 +1,4 @@
-## :wave: Hi, I'm Wasit Shafi
+### :wave: Hi, I'm Wasit, Software Engineer Experienced in 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 & 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 Enterprise Apps
 <p>
 <a target="_blank" href="https://github.com/wasit-shafi?tab=repositories" title="https://github.com/wasit-shafi?tab=repositories"><img src="https://badges.strrl.dev/contributions/all/wasit-shafi" alt="All_Contributions"/></a> 
 <a target="_blank" href="https://github.com/wasit-shafi?tab=repositories"  title="https://github.com/wasit-shafi?tab=repositories"><img src="https://badges.strrl.dev/commits/all/wasit-shafi" alt="All_Commits"/></a> 
@@ -10,10 +10,10 @@
 ### 📖 More About Me
 
 <!--- 🧐 &nbsp; Exploring **MEAN/MERN Tech Stack**, **Microservices architecture**,  **AWS** & **Adv. DSA**, Interested **Back-End Technologies**/**Problem Solving** -->
-- 🧍 &nbsp; Software Engineer Experienced in 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 & 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 Enterprise Apps
+
+- ⚙️ &nbsp; **Core Backend Skills:** Node.js, Express.js, RESTful API Development, Database Schema Design, MongoDB, SQL, Docker, CICD                
+- 🎨 &nbsp; **Core Frontend Skills:** React, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Redux, NgRx, RxJs, Web Sockets
 - 🎓 &nbsp; Completed Bachelor of Computer Applications & Master of Computer Applications
-- ✅ &nbsp; **Core Backend Skills:** NodeJS, ExpressJS,  Rest API Development, MongoDB, Mongoose, BullMQ, Redis, SQL, Docker, CICD, Github Actions
-- ✅ &nbsp; **Core Frontend Skills:** Angular, React, TypeScript, JavaScript, HTML, CSS, TailwindCSS
 - 💯 &nbsp; **Free  DevTip:** First solve the PROBLEM then CODE!
 <!--- 📩 Connect with me at <a target="_blank" href="mailto:wasitshafi700@gmail.com">wasitshafi700@gmail.com</a> -->
 <!-- https://icons8.com/icons -->
