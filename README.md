@@ -1,4 +1,4 @@
-### :wave: Hi, I'm Wasit, Software Engineer Experienced in 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 & 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 Enterprise Apps
+### :wave: Hi, I'm Wasit, Software Engineer Experienced in 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 & 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 Enterprise Systems
 <p>
 <a target="_blank" href="https://github.com/wasit-shafi?tab=repositories" title="https://github.com/wasit-shafi?tab=repositories"><img src="https://badges.strrl.dev/contributions/all/wasit-shafi" alt="All_Contributions"/></a> 
 <a target="_blank" href="https://github.com/wasit-shafi?tab=repositories"  title="https://github.com/wasit-shafi?tab=repositories"><img src="https://badges.strrl.dev/commits/all/wasit-shafi" alt="All_Commits"/></a> 
@@ -17,7 +17,11 @@
 - 💯 &nbsp; **Free  DevTip:** First solve the PROBLEM then CODE!
 <!--- 📩 Connect with me at <a target="_blank" href="mailto:wasitshafi700@gmail.com">wasitshafi700@gmail.com</a> -->
 <!-- https://icons8.com/icons -->
+### Connect with me
 
+<a target="_blank" href="https://www.linkedin.com/in/wasit-shafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasit-shafi"/></a>
+<a target="_blank" href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="wasitshafi700@gmail.com"/></a>
+<br />
 <h1 align="center"><strong>Technologies & Skills</strong></h1>
 <p align="center"> 
     <!-- typescript -->
@@ -83,13 +87,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasit-shafi&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wasit-shafi&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wasit-shafi&theme=2077&utcOffset=5.30)
-
-
-### Connect with me
-
-<a target="_blank" href="https://www.linkedin.com/in/wasit-shafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasit-shafi"/></a>
-<a target="_blank" href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="wasitshafi700@gmail.com"/></a>
-<br />
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wasit-shafi&theme=2077&exclude=Jupyter%20Notebook,c,c%2B%2B)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wasit-shafi&theme=2077)
