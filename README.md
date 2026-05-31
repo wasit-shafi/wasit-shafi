@@ -11,7 +11,7 @@
 
 <!--- 🧐 &nbsp; Exploring **MEAN/MERN Tech Stack**, **Microservices architecture**,  **AWS** & **Adv. DSA**, Interested **Back-End Technologies**/**Problem Solving** -->
 
-- ⚙️ &nbsp; **Core Backend Skills:** Node.js, Express.js, REST API Development, Database Schema Design, MongoDB, SQL, Docker, CICD                
+- ⚙️ &nbsp; **Core Backend Skills:** Node.js, Express.js, RESTful API Development, Database Schema Design, MongoDB, SQL, Docker, CICD                
 - 🎨 &nbsp; **Core Frontend Skills:** React, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Redux, NgRx, RxJs, Web Sockets
 - 🎓 &nbsp; Completed Bachelor of Computer Applications & Master of Computer Applications
 - 💯 &nbsp; **Free  DevTip:** First solve the PROBLEM then CODE!
