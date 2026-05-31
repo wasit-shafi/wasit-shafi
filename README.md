@@ -1,19 +1,18 @@
 ### :wave: Hi, I'm Wasit, Software Engineer Experienced in 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 & 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 Enterprise Systems
 <p>
-<a target="_blank" href="https://github.com/wasit-shafi?tab=repositories" title="https://github.com/wasit-shafi?tab=repositories"><img src="https://badges.strrl.dev/contributions/all/wasit-shafi" alt="All_Contributions"/></a> 
-<a target="_blank" href="https://github.com/wasit-shafi?tab=repositories"  title="https://github.com/wasit-shafi?tab=repositories"><img src="https://badges.strrl.dev/commits/all/wasit-shafi" alt="All_Commits"/></a> 
-<a target="_blank" href="https://github.com/wasit-shafi?tab=repositories" title="https://github.com/wasit-shafi?tab=repositories"><img src="https://badges.strrl.dev/issues-and-prs/all/wasit-shafi" alt="All_Issues_And_PRs"/></a> 
-<a target="_blank" href="https://stackoverflow.com/users/10249156/wasit-shafi" title="https://stackoverflow.com/users/10249156/wasit-shafi"><img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
+<img src="https://badges.strrl.dev/contributions/all/wasit-shafi" alt="All_Contributions"/>
+<img src="https://badges.strrl.dev/commits/all/wasit-shafi" alt="All_Commits"/>
+<img src="https://badges.strrl.dev/issues-and-prs/all/wasit-shafi" alt="All_Issues_And_PRs"/>
 </p>
-<!-- <h5>Software Engineer with 4+ years of experience in developing & delivering high-quality web applications</h5> -->
 
 ### 📖 More About Me
 
 <!--- 🧐 &nbsp; Exploring **MEAN/MERN Tech Stack**, **Microservices architecture**,  **AWS** & **Adv. DSA**, Interested **Back-End Technologies**/**Problem Solving** -->
 
-- ⚙️ &nbsp; **Core Backend Skills:** Node.js, Express.js, RESTful API Development, Database Schema Design, MongoDB, SQL, Docker, CICD                
+- ⚙️ &nbsp; **Core Backend Skills:** Node.js, Express.js, RESTful API Development, Database Schema Design, MongoDB, SQL, Docker, CICD            
 - 🎨 &nbsp; **Core Frontend Skills:** React, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Redux, NgRx, RxJs, Web Sockets
 - 🎓 &nbsp; Completed Bachelor of Computer Applications & Master of Computer Applications
+- <img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1780263741/personal-data/stackoverflow_u6hs4v.png" height="15"/> &nbsp; Occasionally, I try to contribute on <img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1780263715/personal-data/stack-overflow-logo-orange_rsjugr.svg" height="14"/>. Checkout my <a target="_blank" href="https://stackoverflow.com/users/10249156/wasit-shafi" title="https://stackoverflow.com/users/10249156/wasit-shafi"> contributions <img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
 - 💯 &nbsp; **Free  DevTip:** First solve the PROBLEM then CODE!
 <!--- 📩 Connect with me at <a target="_blank" href="mailto:wasitshafi700@gmail.com">wasitshafi700@gmail.com</a> -->
 <!-- https://icons8.com/icons -->
