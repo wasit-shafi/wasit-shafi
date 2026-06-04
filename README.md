@@ -14,13 +14,15 @@
 - 🎓 &nbsp; Completed Bachelor of Computer Applications & Master of Computer Applications
 - <img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1780263741/personal-data/stackoverflow_u6hs4v.png" height="15"/> &nbsp; Occasionally, I contribute on <img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1780263715/personal-data/stack-overflow-logo-orange_rsjugr.svg" height="14"/>. Check out my work <a target="_blank" href="https://stackoverflow.com/users/10249156/wasit-shafi?tab=topactivity">there<img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
 - 💯 &nbsp; **Free  DevTip:** First solve the PROBLEM then CODE!
-<!--- 📩 Connect with me at <a target="_blank" href="mailto:wasitshafi700@gmail.com">wasitshafi700@gmail.com</a> -->
-<!-- https://icons8.com/icons -->
-### Connect with me
+- 📩 &nbsp; Drop me a line at <a target="_blank" href="mailto:wasitshafi700@gmail.com">wasitshafi700@gmail.com</a>
 
-<a target="_blank" href="https://www.linkedin.com/in/wasit-shafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasit-shafi"/></a>
-<a target="_blank" href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="wasitshafi700@gmail.com"/></a>
-<br />
+
+<!-- https://icons8.com/icons -->
+
+<!-- ### Connect with me -->
+<!-- <a target="_blank" href="https://www.linkedin.com/in/wasit-shafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasit-shafi"/></a> -->
+<!-- <a target="_blank" href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="wasitshafi700@gmail.com"/></a> -->
+<!-- <br /> -->
 <h1 align="center"><strong>Technologies & Skills</strong></h1>
 <p align="center"> 
     <!-- typescript -->
