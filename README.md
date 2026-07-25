@@ -9,12 +9,12 @@
 
 <!--- 🧐 &nbsp; Exploring **MEAN/MERN Tech Stack**, **Microservices architecture**,  **AWS** & **Adv. DSA**, Interested **Back-End Technologies**/**Problem Solving** -->
 
-- ⚙️ &nbsp; **Core Backend Skills:** Node.js, Express.js, RESTful API Development, Database Schema Design, MongoDB, SQL, Docker, CICD            
-- 🎨 &nbsp; **Core Frontend Skills:** React, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Redux, NgRx, RxJs, Web Sockets
-- 🎓 &nbsp; Completed Bachelor of Computer Applications & Master of Computer Applications
-- <img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1780263741/personal-data/stackoverflow_u6hs4v.png" height="15"/> &nbsp; Occasionally, I contribute on <img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1780263715/personal-data/stack-overflow-logo-orange_rsjugr.svg" height="14"/>. Check out my work <a target="_blank" href="https://stackoverflow.com/users/10249156/wasit-shafi?tab=topactivity">there<img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
-- 💯 &nbsp; **Free  DevTip:** First solve the PROBLEM then CODE!
-- 📩 &nbsp; Drop me a line at <a target="_blank" href="mailto:wasitshafi700@gmail.com">wasitshafi700@gmail.com</a>
+- ⚙️ &nbsp; **Backend Skills:** Node.js, Express.js, RESTful API Development, Database Schema Design, MongoDB, SQL, Docker, CICD            
+- 🎨 &nbsp; **Frontend Skills:** React, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Redux, NgRx, RxJs, Web Sockets
+- 🎓 &nbsp; **Education:** Bachelor of Computer Applications(**BCA**) & Master of Computer Applications(**MCA**)
+- <img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1780263741/personal-data/stackoverflow_u6hs4v.png" height="15"/> &nbsp; Occasionally, I contribute on <img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1780263715/personal-data/stack-overflow-logo-orange_rsjugr.svg" height="14"/>. Check out my work <a target="_blank" href="https://stackoverflow.com/users/10249156/wasit-shafi?tab=topactivity">HERE<img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
+- 💯 &nbsp; **Free  DevTip:** First solve the **PROBLEM** then **CODE**!
+- 📩 &nbsp; Drop me a line at <a target="_blank" href="mailto:wasitshafi700@gmail.com">wasitshafi700@gmail.com</a> for any queries.
 
 
 <!-- https://icons8.com/icons -->
@@ -62,13 +62,13 @@
     <!-- AWS -->
 <a target="_blank" href="https://aws.amazon.com" title="Amazon Web Services" ><img  src="https://img.icons8.com/color/60/amazon-web-services.png" alt="AWS"/></a>
     <!-- nest.js -->
-<a target="_blank" href="https://nestjs.com"  title="NestJS" ><img src="https://nestjs.com/favicon.fe097249.ico" alt="nest-js"/></a>
+<a target="_blank" href="https://nestjs.com"  title="NestJS" ><img src="https://nestjs.com/favicon.ico" alt="nest-js"/></a>
     <!-- MySQL -->
 <a target="_blank" href="https://www.mysql.com/" title="My SQL" ><img  src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1712346367/personal-data/dsjknkg9hdemhg3p6j6w.png" alt="my-sql"/></a>
     <!-- PostgreSQL -->
 <a target="_blank" href="https://www.postgresql.org/" title="PostgreSQL" ><img  src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="PostgreSQL" /></a>
     <!-- Redis -->
-<a target="_blank" href="https://redis.io/" title="Redis" ><img  src="https://redis.io/wp-content/themes/wpx/assets/images/favicons/favicon-32x32.png" alt="redis" /></a>
+<a target="_blank" href="https://redis.io/" title="Redis" ><img width="60" src="https://redis.io/favicon.ico" alt="redis" /></a>
     <!-- NGRX -->
 <a target="_blank" href="https://ngrx.io/" title="NgRx" ><img width="60" src="https://ngrx.io/ngrx-logo.svg" alt="NgRx" /></a>
     <!-- Redux -->
