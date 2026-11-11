@@ -1,4 +1,5 @@
 ### :wave: Hi, I'm Wasit, Software Engineer Experienced in 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 & 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 Enterprise Systems
+
 <p>
 <img src="https://badges.strrl.dev/contributions/all/wasit-shafi" alt="All_Contributions"/>
 <img src="https://badges.strrl.dev/commits/all/wasit-shafi" alt="All_Commits"/>
@@ -9,13 +10,12 @@
 
 <!--- 🧐 &nbsp; Exploring **MEAN/MERN Tech Stack**, **Microservices architecture**,  **AWS** & **Adv. DSA**, Interested **Back-End Technologies**/**Problem Solving** -->
 
-- ⚙️ &nbsp; **Backend Skills:** Node.js, Express.js, RESTful API Development, Database Schema Design, MongoDB, SQL, Docker, CICD            
+- ⚙️ &nbsp; **Backend Skills:** Node.js, Express.js, RESTful API Development, Database Schema Design, MongoDB, SQL, Docker, CICD
 - 🎨 &nbsp; **Frontend Skills:** React, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Redux, NgRx, RxJs, Web Sockets
 - 🎓 &nbsp; **Education:** Bachelor of Computer Applications(**BCA**) & Master of Computer Applications(**MCA**)
-- <img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1780263741/personal-data/stackoverflow_u6hs4v.png" height="15"/> &nbsp; Occasionally, I contribute on <img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1780263715/personal-data/stack-overflow-logo-orange_rsjugr.svg" height="14"/>. Check out my work <a target="_blank" href="https://stackoverflow.com/users/10249156/wasit-shafi?tab=topactivity">HERE<img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
-- 💯 &nbsp; **Free  DevTip:** First solve the **PROBLEM** then **CODE**!
+- <img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1780263741/personal-data/stackoverflow_u6hs4v.png" height="15"/> &nbsp; Occasionally, I contribute on <img src="https://res.cloudinary.com/dtlx6i2m7/image/upload/v1780263715/personal-data/stack-overflow-logo-orange_rsjugr.svg" height="14"/>. Check out my work <a target="_blank" href="https://stackoverflow.com/users/wasit.shafi?tab=topactivity">HERE<img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/></a>
+- 💯 &nbsp; **Free DevTip:** First solve the **PROBLEM** then **CODE**!
 - 📩 &nbsp; Drop me a line at <a target="_blank" href="mailto:wasitshafi700@gmail.com">wasitshafi700@gmail.com</a> for any queries.
-
 
 <!-- https://icons8.com/icons -->
 
@@ -85,9 +85,11 @@
 </p>
 
 ### Github Stats (Excluding Private Repos)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasit-shafi&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wasit-shafi&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wasit-shafi&theme=2077&utcOffset=4)
+
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wasit-shafi&theme=2077&exclude=Jupyter%20Notebook,c,c%2B%2B)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wasit-shafi&theme=2077)
